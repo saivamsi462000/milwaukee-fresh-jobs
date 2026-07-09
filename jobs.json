@@ -1,5 +1,6 @@
 {
-  "last_updated": "2026-07-09T17:40:13.393394+00:00",
+  "last_updated": "2026-07-09T18:13:29.798127+00:00",
+  "freshness_window_days": 5,
   "jobs": [
     {
       "title": "Pouching Operator - 3rd Shift",
@@ -7,7 +8,7 @@
       "location": "Menomonee Falls, Waukesha County",
       "posted": "2026-07-09T05:41:28Z",
       "url": "https://www.adzuna.com/details/5794022715?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
+      "source": "Adzuna (redirect link)"
     },
     {
       "title": "Qa/Qc Lab Technician",
@@ -15,7 +16,7 @@
       "location": "Glendale, Milwaukee County",
       "posted": "2026-07-08T23:25:52Z",
       "url": "https://www.adzuna.com/details/5793664550?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
+      "source": "Adzuna (redirect link)"
     },
     {
       "title": "Multi-Site Maintenance Technician & Traveling Installation Specialist",
@@ -23,7 +24,7 @@
       "location": "Hartland, Waukesha County",
       "posted": "2026-07-08T17:30:08Z",
       "url": "https://www.adzuna.com/details/5793140158?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
+      "source": "Adzuna (redirect link)"
     },
     {
       "title": "IT Operational Specialist",
@@ -31,7 +32,7 @@
       "location": "Bayview, Milwaukee County",
       "posted": "2026-07-08T05:12:39Z",
       "url": "https://www.adzuna.com/details/5792186471?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
+      "source": "Adzuna (redirect link)"
     },
     {
       "title": "Failure Analysis Engineer",
@@ -39,271 +40,7 @@
       "location": "Sturtevant, Racine County",
       "posted": "2026-07-08T00:26:46Z",
       "url": "https://www.adzuna.com/details/5791996953?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Sr Enterprise Account Executive - Manufacturing",
-      "company": "ServiceNow, Inc.",
-      "location": "West Milwaukee, Milwaukee County",
-      "posted": "2026-07-03T01:21:12Z",
-      "url": "https://www.adzuna.com/land/ad/5786417486?se=lkg8O7178RGD_JySugrbTQ&utm_medium=api&utm_source=9f1063e3&v=A507F47A9A1842DE8FFD090314C56FA09932266C",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Help Desk Technician I",
-      "company": "SKYGEN",
-      "location": "Menomonee Falls, Waukesha County",
-      "posted": "2026-07-02T05:49:08Z",
-      "url": "https://www.adzuna.com/details/5785275838?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Quality Assurance Technician III - 1st & 2nd Shift",
-      "company": "Strohwig Industries Inc",
-      "location": "Richfield, Washington County",
-      "posted": "2026-07-01T03:10:59Z",
-      "url": "https://www.adzuna.com/details/5783141794?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Sr Enterprise Account Executive - Manufacturing",
-      "company": "ServiceNow",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-07-01T02:49:10Z",
-      "url": "https://www.adzuna.com/details/5783105415?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "IT - Technology Specialist - IT Service, Support and Operations | SAP Industry Solution | SAP Retail",
-      "company": "Cloudspace LLC",
-      "location": "Mount Pleasant, Racine County",
-      "posted": "2026-06-30T20:39:34Z",
-      "url": "https://www.adzuna.com/details/5782635781?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Technical Support Specialist II",
-      "company": "Traffic & Parking Contr",
-      "location": "Brown Deer, Milwaukee County",
-      "posted": "2026-06-28T03:42:48Z",
-      "url": "https://www.adzuna.com/details/5780027703?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Sr IT Application Support Specialist",
-      "company": "Molson Coors Beverage Company",
-      "location": "West Milwaukee, Milwaukee County",
-      "posted": "2026-06-26T01:17:47Z",
-      "url": "https://www.adzuna.com/land/ad/5777287553?se=lkg8O7178RGD_JySugrbTQ&utm_medium=api&utm_source=9f1063e3&v=EF146FB1E9193F22809E0CED381AA988E70D01C2",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Sr IT Application Support Specialist",
-      "company": "Molson Coors",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-06-25T03:59:55Z",
-      "url": "https://www.adzuna.com/land/ad/5775962096?se=lkg8O7178RGD_JySugrbTQ&utm_medium=api&utm_source=9f1063e3&v=018B683B30124C0608471393214C7CBB1AB4744C",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Service Desk Technician II",
-      "company": "Materion",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-06-24T05:50:09Z",
-      "url": "https://www.adzuna.com/details/5774613457?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Sr IT Application Support Specialist",
-      "company": "Molson Coors",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-06-23T20:44:45Z",
-      "url": "https://www.adzuna.com/details/5774177949?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Digital Strategy Lead",
-      "company": "STV",
-      "location": "Mount Pleasant, Racine County",
-      "posted": "2026-06-18T03:17:34Z",
-      "url": "https://www.adzuna.com/details/5767787351?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "IT Support Supervisor",
-      "company": "Vitalsearchgroup",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-06-16T01:42:08Z",
-      "url": "https://www.adzuna.com/details/5765160606?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Technical Support Specialist II",
-      "company": "Batteries Plus",
-      "location": "Hartland, Waukesha County",
-      "posted": "2026-06-15T16:37:40Z",
-      "url": "https://www.adzuna.com/details/5764599531?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Financial Aid Operations Specialist",
-      "company": "Waukesha County Technical College",
-      "location": "Pewaukee, Waukesha County",
-      "posted": "2026-06-13T07:41:33Z",
-      "url": "https://www.adzuna.com/details/5762475215?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "QA/QC Technician - Michels Trenchless, Inc.",
-      "company": "Michels Corporation",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-06-13T01:03:19Z",
-      "url": "https://www.adzuna.com/details/5762103752?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Technical Help Desk 1",
-      "company": "Robert Half",
-      "location": "Menomonee Falls, Waukesha County",
-      "posted": "2026-06-06T01:20:01Z",
-      "url": "https://www.adzuna.com/land/ad/5754067966?se=4Gu3Ob178RGm9YHvQ8XokQ&utm_medium=api&utm_source=9f1063e3&v=AD63A0C42F54A7C3E04E40548CA24C3FA292579D",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "IT Support Specialist",
-      "company": "Standard Electric Supply Co",
-      "location": "Brown Deer, Milwaukee County",
-      "posted": "2026-06-05T05:30:00Z",
-      "url": "https://www.adzuna.com/details/5753002284?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Deskside Technology Analyst",
-      "company": "Foley & Lardner LLP",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-06-03T05:34:25Z",
-      "url": "https://www.adzuna.com/details/5750363529?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Failure Analysis Engineer",
-      "company": "Foxconn WI",
-      "location": "Sturtevant, Racine County",
-      "posted": "2026-06-03T00:19:31Z",
-      "url": "https://www.adzuna.com/details/5750087049?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Debug Technician",
-      "company": "Foxconn WI",
-      "location": "Sturtevant, Racine County",
-      "posted": "2026-06-03T00:01:20Z",
-      "url": "https://www.adzuna.com/details/5750053184?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Industrial Technical Support Specialist",
-      "company": "Generac Power Systems",
-      "location": "Sussex, Waukesha County",
-      "posted": "2026-05-23T01:02:59Z",
-      "url": "https://www.adzuna.com/land/ad/5738453452?se=4Gu3Ob178RGm9YHvQ8XokQ&utm_medium=api&utm_source=9f1063e3&v=F4E82FAD94A48AC258C0AAFFF2F2ED5076812CD6",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Industrial Technical Support Specialist",
-      "company": "Duravant",
-      "location": "Sussex, Waukesha County",
-      "posted": "2026-05-22T01:18:07Z",
-      "url": "https://www.adzuna.com/details/5737312364?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Technical Support Specialist",
-      "company": "Tier4 Group",
-      "location": "Franklin, Milwaukee County",
-      "posted": "2026-05-12T00:22:19Z",
-      "url": "https://www.adzuna.com/details/5726477006?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "IT Helpdesk Specialist",
-      "company": "The Bartolotta Restaurants",
-      "location": "Bayview, Milwaukee County",
-      "posted": "2026-05-10T04:24:11Z",
-      "url": "https://www.adzuna.com/details/5725001674?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Help Desk Support Specialist",
-      "company": "Lutheran Social Services of Wisconsin and Upper Michigan",
-      "location": "West Allis, Milwaukee County",
-      "posted": "2026-04-22T02:21:43Z",
-      "url": "https://www.adzuna.com/details/5706901549?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Repair Debug Technician",
-      "company": "PDS Tech Commercial",
-      "location": "Racine, Racine County",
-      "posted": "2026-04-17T00:45:13Z",
-      "url": "https://www.adzuna.com/land/ad/5702226295?se=LEy6PL178RGSpc2JeqBnow&utm_medium=api&utm_source=9f1063e3&v=78F65B518F4D4717EF80C8B27B63AE12A9A12E53",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Help Desk Technician",
-      "company": "IntelliPro Group",
-      "location": "Menomonee Falls, Waukesha County",
-      "posted": "2026-04-16T02:00:27Z",
-      "url": "https://www.adzuna.com/details/5701122530?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Lead Tech Support Specialist",
-      "company": "Fathom Mfg",
-      "location": "Hartland, Waukesha County",
-      "posted": "2026-04-15T00:48:45Z",
-      "url": "https://www.adzuna.com/details/5699786325?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Help Desk Technician",
-      "company": "IntelliPro Group Inc.",
-      "location": "Menomonee Falls, Waukesha County",
-      "posted": "2026-04-14T16:03:59Z",
-      "url": "https://www.adzuna.com/details/5699176955?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "IT Support Technician",
-      "company": "Gustave A Larson Company",
-      "location": "Pewaukee, Waukesha County",
-      "posted": "2026-04-04T03:16:24Z",
-      "url": "https://www.adzuna.com/details/5689616923?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "IT Support Specialist",
-      "company": "Bear Country",
-      "location": "Caledonia, Racine County",
-      "posted": "2026-02-21T15:58:08Z",
-      "url": "https://www.adzuna.com/details/5640417015?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Senior Industrial Technical Support Specialist",
-      "company": "Generac Power Systems",
-      "location": "Sussex, Waukesha County",
-      "posted": "2025-10-01T19:17:56Z",
-      "url": "https://www.adzuna.com/land/ad/5425496795?se=4Gu3Ob178RGm9YHvQ8XokQ&utm_medium=api&utm_source=9f1063e3&v=950382862635D1138251AB1F7555EC7C28CBC38F",
-      "source": "Adzuna aggregator"
-    },
-    {
-      "title": "Marine Technician",
-      "company": "Cardinal Point Captains",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2024-08-08T09:31:24Z",
-      "url": "https://www.adzuna.com/details/4816757273?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna aggregator"
+      "source": "Adzuna (redirect link)"
     }
   ]
 }
