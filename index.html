@@ -91,6 +91,8 @@
   .badge-new { background: #e7f6ec; color: var(--green); }
   .badge-today { background: #fff4e5; color: var(--amber); }
   .badge-source { background: #eef1f7; color: var(--navy); }
+  .badge-direct { background: #e7f6ec; color: var(--green); }
+  .badge-aggregator { background: #f1f1f1; color: #666666; }
   .apply-btn {
     display: inline-block;
     margin-top: 10px;
@@ -176,6 +178,9 @@
     empty.style.display = 'none';
     jobs.forEach(job => {
       const badge = timeAgoLabel(job.posted);
+      const isDirect = (job.source || '').toLowerCase().includes('direct');
+      const sourceCls = isDirect ? 'badge-direct' : 'badge-aggregator';
+      const sourceLabel = isDirect ? 'Direct link' : 'Aggregator link';
       const card = document.createElement('div');
       card.className = 'job-card';
       card.innerHTML = `
@@ -187,7 +192,7 @@
           </div>
           <div style="text-align:right;">
             ${badge ? `<span class="badge ${badge.cls}">${badge.label}</span>` : ''}
-            <br><span class="badge badge-source" style="margin-top:6px;">${job.source}</span>
+            <br><span class="badge ${sourceCls}" style="margin-top:6px;" title="${job.source}">${sourceLabel}</span>
           </div>
         </div>
         <a class="apply-btn" href="${job.url}" target="_blank" rel="noopener">View & Apply →</a>
@@ -231,6 +236,4 @@
 </script>
 
 </body>
-</html> 
-
-
+</html>
