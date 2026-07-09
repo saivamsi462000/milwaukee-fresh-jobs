@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Milwaukee Fresh Jobs — Support, Help Desk & Technician Roles</title>
+<style>
+  :root {
+    --navy: #1F3864;
+    --navy-light: #2c4a7c;
+    --bg: #f5f7fa;
+    --card: #ffffff;
+    --text: #1a1a1a;
+    --muted: #666666;
+    --green: #1a7f37;
+    --amber: #b45309;
+    --border: #e2e6ec;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    background: var(--navy);
+    color: white;
+    padding: 28px 20px 22px;
+    text-align: center;
+  }
+  header h1 { margin: 0 0 6px; font-size: 1.6rem; }
+  header p { margin: 0; opacity: 0.85; font-size: 0.95rem; }
+  #updated-banner {
+    max-width: 900px;
+    margin: -14px auto 0;
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    position: relative;
+    z-index: 2;
+  }
+  #updated-banner .label { font-size: 0.85rem; color: var(--muted); }
+  #updated-banner .time { font-weight: 600; color: var(--navy); }
+  main { max-width: 900px; margin: 24px auto; padding: 0 16px 60px; }
+  .controls {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 18px;
+  }
+  .controls input, .controls select {
+    padding: 9px 12px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    font-size: 0.9rem;
+  }
+  .controls input { flex: 1; min-width: 180px; }
+  .job-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 18px;
+    margin-bottom: 12px;
+  }
+  .job-card .row-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .job-title { font-size: 1.05rem; font-weight: 700; margin: 0 0 3px; color: var(--navy); }
+  .job-company { font-size: 0.92rem; color: var(--text); margin: 0 0 2px; }
+  .job-meta { font-size: 0.82rem; color: var(--muted); }
+  .badge {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 3px 9px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .badge-new { background: #e7f6ec; color: var(--green); }
+  .badge-today { background: #fff4e5; color: var(--amber); }
+  .badge-source { background: #eef1f7; color: var(--navy); }
+  .apply-btn {
+    display: inline-block;
+    margin-top: 10px;
+    background: var(--navy);
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+  .apply-btn:hover { background: var(--navy-light); }
+  #empty-state, #loading-state {
+    text-align: center;
+    color: var(--muted);
+    padding: 40px 20px;
+  }
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.8rem;
+    padding: 20px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Milwaukee Fresh Jobs</h1>
+  <p>Help Desk · Technical Support · Desktop Support · Debugging &amp; QA Technician roles — updated twice daily</p>
+</header>
+
+<div id="updated-banner">
+  <div><span class="label">Last updated:</span> <span class="time" id="last-updated">loading...</span></div>
+  <div><span class="label">Total live postings:</span> <span class="time" id="total-count">–</span></div>
+</div>
+
+<main>
+  <div class="controls">
+    <input type="text" id="search-box" placeholder="Search title, company, or keyword...">
+    <select id="sort-select">
+      <option value="newest">Newest first</option>
+      <option value="company">Company A–Z</option>
+    </select>
+  </div>
+
+  <div id="loading-state">Loading jobs…</div>
+  <div id="empty-state" style="display:none;">No jobs match your search right now. Try a different keyword.</div>
+  <div id="job-list"></div>
+</main>
+
+<footer>
+  Sources aggregated via public job-search APIs. Always verify a listing on the employer's own site before applying.<br>
+  Built for international students in Milwaukee, WI. Not affiliated with any employer or job board.
+</footer>
+
+<script>
+  let allJobs = [];
+
+  function timeAgoLabel(dateStr) {
+    const posted = new Date(dateStr);
+    const now = new Date();
+    const diffHrs = (now - posted) / (1000 * 60 * 60);
+    if (diffHrs < 14) return { label: "New", cls: "badge-new" };
+    if (diffHrs < 30) return { label: "Posted Today", cls: "badge-today" };
+    return null;
+  }
+
+  function formatDate(dateStr) {
+    const d = new Date(dateStr);
+    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) +
+           ' ' + d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
+  }
+
+  function render(jobs) {
+    const list = document.getElementById('job-list');
+    const empty = document.getElementById('empty-state');
+    list.innerHTML = '';
+    if (jobs.length === 0) {
+      empty.style.display = 'block';
+      return;
+    }
+    empty.style.display = 'none';
+    jobs.forEach(job => {
+      const badge = timeAgoLabel(job.posted);
+      const card = document.createElement('div');
+      card.className = 'job-card';
+      card.innerHTML = `
+        <div class="row-top">
+          <div>
+            <p class="job-title">${job.title}</p>
+            <p class="job-company">${job.company} — ${job.location}</p>
+            <p class="job-meta">Posted: ${formatDate(job.posted)}</p>
+          </div>
+          <div style="text-align:right;">
+            ${badge ? `<span class="badge ${badge.cls}">${badge.label}</span>` : ''}
+            <br><span class="badge badge-source" style="margin-top:6px;">${job.source}</span>
+          </div>
+        </div>
+        <a class="apply-btn" href="${job.url}" target="_blank" rel="noopener">View & Apply →</a>
+      `;
+      list.appendChild(card);
+    });
+  }
+
+  function applyFilters() {
+    const q = document.getElementById('search-box').value.toLowerCase();
+    const sort = document.getElementById('sort-select').value;
+    let filtered = allJobs.filter(j =>
+      j.title.toLowerCase().includes(q) ||
+      j.company.toLowerCase().includes(q) ||
+      (j.location || '').toLowerCase().includes(q)
+    );
+    if (sort === 'newest') {
+      filtered.sort((a, b) => new Date(b.posted) - new Date(a.posted));
+    } else {
+      filtered.sort((a, b) => a.company.localeCompare(b.company));
+    }
+    render(filtered);
+  }
+
+  fetch('jobs.json?_=' + Date.now())
+    .then(r => r.json())
+    .then(data => {
+      allJobs = data.jobs || [];
+      document.getElementById('loading-state').style.display = 'none';
+      document.getElementById('last-updated').textContent = formatDate(data.last_updated);
+      document.getElementById('total-count').textContent = allJobs.length;
+      applyFilters();
+    })
+    .catch(err => {
+      document.getElementById('loading-state').textContent =
+        'Could not load jobs.json — make sure the automated workflow has run at least once.';
+    });
+
+  document.getElementById('search-box').addEventListener('input', applyFilters);
+  document.getElementById('sort-select').addEventListener('change', applyFilters);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-07-09T13:00:00-05:00",
+  "jobs": [
+    {
+      "title": "IT Desktop Support Technician",
+      "company": "Komatsu Mining Corp.",
+      "location": "Milwaukee, WI",
+      "posted": "2026-07-08T09:00:00-05:00",
+      "url": "https://komatsu.jobs/job/Milwaukee-IT-Desktop-Support-Technician-WI-53204-2941/36075-en_US/",
+      "source": "Sample seed data"
+    },
+    {
+      "title": "IT Customer Support Specialist",
+      "company": "Lutheran Social Services of WI & Upper MI",
+      "location": "West Allis, WI",
+      "posted": "2026-07-07T10:00:00-05:00",
+      "url": "https://www.lsswis.org/careers/",
+      "source": "Sample seed data"
+    }
+  ],
+  "note": "This is placeholder seed data. Replace by running fetch_jobs.py with a real Adzuna API key, or wait for the first scheduled GitHub Actions run."
+}
