@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T14:43:16.685483+00:00",
+  "last_updated": "2026-07-13T23:56:44.724205+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
@@ -7,7 +7,7 @@
       "company": "Cornerstone onDemand",
       "location": "West Milwaukee, Milwaukee County",
       "posted": "2026-07-10T01:24:58Z",
-      "url": "https://www.adzuna.com/land/ad/5795133434?se=EuUkK8l-8RGroMC9Z2JQdA&utm_medium=api&utm_source=9f1063e3&v=31B3892B44BB388CD1495730650455942F7F2391",
+      "url": "https://www.adzuna.com/details/5795133434?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -16,22 +16,6 @@
       "location": "Menomonee Falls, Waukesha County",
       "posted": "2026-07-09T05:41:28Z",
       "url": "https://www.adzuna.com/details/5794022715?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Qa/Qc Lab Technician",
-      "company": "Athea Laboratories",
-      "location": "Glendale, Milwaukee County",
-      "posted": "2026-07-08T23:25:52Z",
-      "url": "https://www.adzuna.com/details/5793664550?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Multi-Site Maintenance Technician & Traveling Installation Specialist",
-      "company": "Tribute Design Systems, LLC",
-      "location": "Hartland, Waukesha County",
-      "posted": "2026-07-08T17:30:08Z",
-      "url": "https://www.adzuna.com/details/5793140158?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
