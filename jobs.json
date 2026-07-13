@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T23:59:04.697936+00:00",
+  "last_updated": "2026-07-13T14:43:16.685483+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
@@ -7,7 +7,7 @@
       "company": "Cornerstone onDemand",
       "location": "West Milwaukee, Milwaukee County",
       "posted": "2026-07-10T01:24:58Z",
-      "url": "https://www.adzuna.com/land/ad/5795133434?se=Yl0xpU1-8RG1-IwfRWwy_Q&utm_medium=api&utm_source=9f1063e3&v=31B3892B44BB388CD1495730650455942F7F2391",
+      "url": "https://www.adzuna.com/land/ad/5795133434?se=EuUkK8l-8RGroMC9Z2JQdA&utm_medium=api&utm_source=9f1063e3&v=31B3892B44BB388CD1495730650455942F7F2391",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -32,22 +32,6 @@
       "location": "Hartland, Waukesha County",
       "posted": "2026-07-08T17:30:08Z",
       "url": "https://www.adzuna.com/details/5793140158?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "IT Operational Specialist",
-      "company": "Impact Seven Inc",
-      "location": "Bayview, Milwaukee County",
-      "posted": "2026-07-08T05:12:39Z",
-      "url": "https://www.adzuna.com/details/5792186471?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Failure Analysis Engineer",
-      "company": "Foxconn WI",
-      "location": "Sturtevant, Racine County",
-      "posted": "2026-07-08T00:26:46Z",
-      "url": "https://www.adzuna.com/details/5791996953?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
