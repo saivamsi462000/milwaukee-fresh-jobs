@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-07-16T00:01:45.778480+00:00",
+  "last_updated": "2026-07-16T14:02:13.278167+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "QA Technician",
+      "company": "Kerry",
+      "location": "Sturtevant, Racine County",
+      "posted": "2026-07-16T01:27:43Z",
+      "url": "https://www.adzuna.com/land/ad/5802336781?se=EOpo8B6B8RG6zLerRpN0aw&utm_medium=api&utm_source=9f1063e3&v=FE65FA9179403A34151C747E2FCA9A34FBDBF02F",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "IT User Support Specialist II",
       "company": "Milwaukee Bucks",
