@@ -1,13 +1,29 @@
 {
-  "last_updated": "2026-07-17T23:56:00.439375+00:00",
+  "last_updated": "2026-07-18T13:24:01.285637+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Technology Support Analyst (On-Site)",
+      "company": "Foley & Lardner LLP",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-07-18T05:58:20Z",
+      "url": "https://www.adzuna.com/details/5806044389?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Sr Enterprise Account Executive",
+      "company": "ServiceNow",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-07-17T20:48:36Z",
+      "url": "https://www.adzuna.com/details/5805500888?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "QA Technician",
       "company": "Kerry",
       "location": "Sturtevant, Racine County",
       "posted": "2026-07-16T01:27:43Z",
-      "url": "https://www.adzuna.com/land/ad/5802336781?se=ynlIDjuC8RG64bpm-6Bw6w&utm_medium=api&utm_source=9f1063e3&v=FE65FA9179403A34151C747E2FCA9A34FBDBF02F",
+      "url": "https://www.adzuna.com/land/ad/5802336781?se=cuQV76uC8RGhSO75dNpd6g&utm_medium=api&utm_source=9f1063e3&v=FE65FA9179403A34151C747E2FCA9A34FBDBF02F",
       "source": "Adzuna (redirect link)"
     },
     {
