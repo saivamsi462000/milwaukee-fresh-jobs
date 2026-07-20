@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T13:25:44.079151+00:00",
+  "last_updated": "2026-07-20T00:01:02.434655+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
@@ -7,15 +7,7 @@
       "company": "ServiceNow, Inc.",
       "location": "West Milwaukee, Milwaukee County",
       "posted": "2026-07-19T01:30:15Z",
-      "url": "https://www.adzuna.com/land/ad/5806908315?se=MLz-VXWD8RGcoYke4_5k4g&utm_medium=api&utm_source=9f1063e3&v=1E1602DCD7D277543DEA50CA63AEF9299B491EE6",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Technology Support Analyst (On-Site)",
-      "company": "Foley & Lardner LLP",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-07-18T05:58:20Z",
-      "url": "https://www.adzuna.com/details/5806044389?utm_medium=api&utm_source=9f1063e3",
+      "url": "https://www.adzuna.com/land/ad/5806908315?se=lO-ZFc6D8RGFMa6bWHzthQ&utm_medium=api&utm_source=9f1063e3&v=1E1602DCD7D277543DEA50CA63AEF9299B491EE6",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -24,22 +16,6 @@
       "location": "Milwaukee, Milwaukee County",
       "posted": "2026-07-17T20:48:36Z",
       "url": "https://www.adzuna.com/details/5805500888?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "QA Technician",
-      "company": "Kerry",
-      "location": "Sturtevant, Racine County",
-      "posted": "2026-07-16T01:27:43Z",
-      "url": "https://www.adzuna.com/land/ad/5802336781?se=eFzjVnWD8RG64bpm-6Bw6w&utm_medium=api&utm_source=9f1063e3&v=FE65FA9179403A34151C747E2FCA9A34FBDBF02F",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "IT User Support Specialist II",
-      "company": "Milwaukee Bucks",
-      "location": "Shorewood, Milwaukee County",
-      "posted": "2026-07-14T23:16:50Z",
-      "url": "https://www.adzuna.com/details/5800673854?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
