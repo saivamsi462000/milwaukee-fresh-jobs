@@ -1,21 +1,29 @@
 {
-  "last_updated": "2026-07-23T00:03:09.881649+00:00",
+  "last_updated": "2026-07-23T14:10:15.470834+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Failure Analysis Engineer",
+      "company": "Foxconn WI",
+      "location": "Sturtevant, Racine County",
+      "posted": "2026-07-23T02:25:23Z",
+      "url": "https://www.adzuna.com/details/5811975778?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "QA/QC Technician",
+      "company": "Hooper Deforest",
+      "location": "Port Washington, Ozaukee County",
+      "posted": "2026-07-23T00:08:34Z",
+      "url": "https://www.adzuna.com/details/5811824070?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Help Desk Support Technician",
       "company": "Advent",
       "location": "Elm Grove, Waukesha County",
       "posted": "2026-07-21T08:04:14Z",
       "url": "https://www.adzuna.com/details/5809297194?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Technology Support Analyst (On-Site)",
-      "company": "Foley & Lardner LLP",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-07-18T05:58:20Z",
-      "url": "https://www.adzuna.com/details/5806044389?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
