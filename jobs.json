@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-07-25T00:07:45.767988+00:00",
+  "last_updated": "2026-07-25T13:43:05.433315+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Front Office Coordinator",
+      "company": "Athletico",
+      "location": "Greendale, Milwaukee County",
+      "posted": "2026-07-25T07:00:03Z",
+      "url": "https://www.adzuna.com/details/5815341732?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Desktop support Technician",
+      "company": "Apptad Inc",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-07-24T21:00:43Z",
+      "url": "https://www.adzuna.com/details/5814703450?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Failure Analysis Engineer",
       "company": "Foxconn WI",
