@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-26T00:02:42.539190+00:00",
+  "last_updated": "2026-07-26T13:37:52.073105+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Desktop Support Specialist",
+      "company": "Insight Global",
+      "location": "New Berlin, Waukesha County",
+      "posted": "2026-07-26T01:32:21Z",
+      "url": "https://www.adzuna.com/land/ad/5816239828?se=jofDMPeI8RGrg5YQe_eAEA&utm_medium=api&utm_source=9f1063e3&v=213D4BE102FD9E0676D5D21CDB1E09FCC5927172",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Front Office Coordinator",
       "company": "Athletico",
       "location": "Greendale, Milwaukee County",
       "posted": "2026-07-25T07:00:03Z",
       "url": "https://www.adzuna.com/details/5815341732?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Desktop Support Technician",
-      "company": "Raas Info Solutions Pvt Ltd",
-      "location": "Racine, Racine County",
-      "posted": "2026-07-25T05:11:33Z",
-      "url": "https://www.adzuna.com/land/ad/5815137790?se=3qaZToWI8RGEopbyd0f8Hw&utm_medium=api&utm_source=9f1063e3&v=5E12C28A105DEC780FBE7E5891DC024D605F3011",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -27,19 +27,19 @@
       "source": "Adzuna (redirect link)"
     },
     {
+      "title": "Failure Analysis Engineer",
+      "company": "Foxconn WI",
+      "location": "Sturtevant, Racine County",
+      "posted": "2026-07-23T02:25:23Z",
+      "url": "https://www.adzuna.com/details/5811975778?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
       "title": "QA/QC Technician",
       "company": "Hooper Deforest",
       "location": "Port Washington, Ozaukee County",
       "posted": "2026-07-23T00:08:34Z",
       "url": "https://www.adzuna.com/details/5811824070?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Help Desk Support Technician",
-      "company": "Advent",
-      "location": "Elm Grove, Waukesha County",
-      "posted": "2026-07-21T08:04:14Z",
-      "url": "https://www.adzuna.com/details/5809297194?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
