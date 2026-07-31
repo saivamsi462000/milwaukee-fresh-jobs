@@ -1,13 +1,29 @@
 {
-  "last_updated": "2026-07-30T14:11:00.239596+00:00",
+  "last_updated": "2026-07-31T00:05:39.285133+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
-      "title": "QA/QC Technician",
-      "company": "Hooper Deforest",
-      "location": "Port Washington, Ozaukee County",
-      "posted": "2026-07-30T01:14:23Z",
-      "url": "https://www.adzuna.com/land/ad/5820751729?se=qDJKfCCM8RGx2MBCJPDzWA&utm_medium=api&utm_source=9f1063e3&v=C251379D28A3DCA359AA3D9A0EDB43B735947D11",
+      "title": "Desktop support Technician",
+      "company": "K-Tek Resourcing LLC",
+      "location": "Saint Francis, Milwaukee County",
+      "posted": "2026-07-30T11:19:45Z",
+      "url": "https://www.adzuna.com/land/ad/5821215257?se=wtMTi3OM8RGld9YEhovvxw&utm_medium=api&utm_source=9f1063e3&v=63A9146E4CE49E8605A1FB9FAD10B8E934D50E51",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Front Office Coordinator - Greenfield, WI",
+      "company": "Athletico",
+      "location": "Greendale, Milwaukee County",
+      "posted": "2026-07-30T10:26:20Z",
+      "url": "https://www.adzuna.com/details/5821187950?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Desktop Support Technician",
+      "company": "Raas Info Solutions Pvt Ltd",
+      "location": "Racine, Racine County",
+      "posted": "2026-07-30T05:23:42Z",
+      "url": "https://www.adzuna.com/land/ad/5820937910?se=wtMTi3OM8RGld9YEhovvxw&utm_medium=api&utm_source=9f1063e3&v=CE38EFD2E96106A2D91803B11FFDD1041F937127",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -15,7 +31,7 @@
       "company": "Strohwig Industries Inc",
       "location": "Richfield, Washington County",
       "posted": "2026-07-28T21:41:58Z",
-      "url": "https://www.adzuna.com/land/ad/5819149148?se=qDJKfCCM8RGx2MBCJPDzWA&utm_medium=api&utm_source=9f1063e3&v=A6523BAA6DA0CB44A7F6DDF2B6752CA927EEBA1B",
+      "url": "https://www.adzuna.com/details/5819149148?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -23,7 +39,7 @@
       "company": "CompuCom",
       "location": "Waukesha, Waukesha County",
       "posted": "2026-07-27T01:29:20Z",
-      "url": "https://www.adzuna.com/land/ad/5817181539?se=bpGQeiCM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=9f1063e3&v=71BD6DABDBF120A0308F055E4286988B3A3BBF7D",
+      "url": "https://www.adzuna.com/land/ad/5817181539?se=wtMTi3OM8RGld9YEhovvxw&utm_medium=api&utm_source=9f1063e3&v=71BD6DABDBF120A0308F055E4286988B3A3BBF7D",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -31,7 +47,7 @@
       "company": "Insight Global",
       "location": "New Berlin, Waukesha County",
       "posted": "2026-07-26T01:32:21Z",
-      "url": "https://www.adzuna.com/land/ad/5816239828?se=HqBneyCM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=9f1063e3&v=213D4BE102FD9E0676D5D21CDB1E09FCC5927172",
+      "url": "https://www.adzuna.com/land/ad/5816239828?se=gH1ajHOM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=9f1063e3&v=213D4BE102FD9E0676D5D21CDB1E09FCC5927172",
       "source": "Adzuna (redirect link)"
     }
   ]
