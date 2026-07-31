@@ -1,13 +1,29 @@
 {
-  "last_updated": "2026-07-31T00:05:39.285133+00:00",
+  "last_updated": "2026-07-31T14:18:06.260987+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Desktop Support",
+      "company": "Raas Info Solutions Pvt Ltd",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-07-31T09:14:32Z",
+      "url": "https://www.adzuna.com/details/5822370398?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Tech Support Specialist",
+      "company": "UnitedHealth Group",
+      "location": "Pewaukee, Waukesha County",
+      "posted": "2026-07-31T01:34:09Z",
+      "url": "https://www.adzuna.com/land/ad/5822073869?se=Thm4ouqM8RGoy9LMiOcmlQ&utm_medium=api&utm_source=9f1063e3&v=9256821EC14FCEC398A48131B9DF6E9812F7A3A8",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Desktop support Technician",
       "company": "K-Tek Resourcing LLC",
       "location": "Saint Francis, Milwaukee County",
       "posted": "2026-07-30T11:19:45Z",
-      "url": "https://www.adzuna.com/land/ad/5821215257?se=wtMTi3OM8RGld9YEhovvxw&utm_medium=api&utm_source=9f1063e3&v=63A9146E4CE49E8605A1FB9FAD10B8E934D50E51",
+      "url": "https://www.adzuna.com/land/ad/5821215257?se=Thm4ouqM8RGoy9LMiOcmlQ&utm_medium=api&utm_source=9f1063e3&v=63A9146E4CE49E8605A1FB9FAD10B8E934D50E51",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -20,34 +36,10 @@
     },
     {
       "title": "Desktop Support Technician",
-      "company": "Raas Info Solutions Pvt Ltd",
-      "location": "Racine, Racine County",
-      "posted": "2026-07-30T05:23:42Z",
-      "url": "https://www.adzuna.com/land/ad/5820937910?se=wtMTi3OM8RGld9YEhovvxw&utm_medium=api&utm_source=9f1063e3&v=CE38EFD2E96106A2D91803B11FFDD1041F937127",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Senior Quality Inspector",
-      "company": "Strohwig Industries Inc",
-      "location": "Richfield, Washington County",
-      "posted": "2026-07-28T21:41:58Z",
-      "url": "https://www.adzuna.com/details/5819149148?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Desktop Support Technician",
       "company": "CompuCom",
       "location": "Waukesha, Waukesha County",
       "posted": "2026-07-27T01:29:20Z",
-      "url": "https://www.adzuna.com/land/ad/5817181539?se=wtMTi3OM8RGld9YEhovvxw&utm_medium=api&utm_source=9f1063e3&v=71BD6DABDBF120A0308F055E4286988B3A3BBF7D",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Desktop Support Specialist",
-      "company": "Insight Global",
-      "location": "New Berlin, Waukesha County",
-      "posted": "2026-07-26T01:32:21Z",
-      "url": "https://www.adzuna.com/land/ad/5816239828?se=gH1ajHOM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=9f1063e3&v=213D4BE102FD9E0676D5D21CDB1E09FCC5927172",
+      "url": "https://www.adzuna.com/land/ad/5817181539?se=Thm4ouqM8RGoy9LMiOcmlQ&utm_medium=api&utm_source=9f1063e3&v=71BD6DABDBF120A0308F055E4286988B3A3BBF7D",
       "source": "Adzuna (redirect link)"
     }
   ]
