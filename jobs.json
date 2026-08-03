@@ -1,13 +1,29 @@
 {
-  "last_updated": "2026-08-02T13:36:08.947146+00:00",
+  "last_updated": "2026-08-03T00:01:45.957931+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Desktop Support Technician",
+      "company": "Raas Info Solutions Pvt Ltd",
+      "location": "Racine, Racine County",
+      "posted": "2026-08-02T05:26:29Z",
+      "url": "https://www.adzuna.com/details/5825532803?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Desktop Support",
+      "company": "Raas Info Solutions Pvt Ltd",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-08-02T05:25:58Z",
+      "url": "https://www.adzuna.com/details/5825527706?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Cyber SDC - OT - Lead Incident Response Coordinator",
       "company": "EY",
       "location": "West Milwaukee, Milwaukee County",
       "posted": "2026-08-02T01:33:20Z",
-      "url": "https://www.adzuna.com/land/ad/5825367347?se=7O_iGneO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=9f1063e3&v=AA20D76834443503FE39119045D7BE24DBF43F24",
+      "url": "https://www.adzuna.com/land/ad/5825367347?se=DMiJfs6O8RGNzO_fQd9OLg&utm_medium=api&utm_source=9f1063e3&v=AA20D76834443503FE39119045D7BE24DBF43F24",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -23,7 +39,7 @@
       "company": "UnitedHealth Group",
       "location": "Pewaukee, Waukesha County",
       "posted": "2026-07-31T01:34:09Z",
-      "url": "https://www.adzuna.com/land/ad/5822073869?se=Li2kG3eO8RG8JMyxbRrc7Q&utm_medium=api&utm_source=9f1063e3&v=9256821EC14FCEC398A48131B9DF6E9812F7A3A8",
+      "url": "https://www.adzuna.com/land/ad/5822073869?se=VmIrgM6O8RGPFvkQNwX8EA&utm_medium=api&utm_source=9f1063e3&v=9256821EC14FCEC398A48131B9DF6E9812F7A3A8",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -31,7 +47,7 @@
       "company": "K-Tek Resourcing LLC",
       "location": "Saint Francis, Milwaukee County",
       "posted": "2026-07-30T11:19:45Z",
-      "url": "https://www.adzuna.com/land/ad/5821215257?se=Li2kG3eO8RG8JMyxbRrc7Q&utm_medium=api&utm_source=9f1063e3&v=63A9146E4CE49E8605A1FB9FAD10B8E934D50E51",
+      "url": "https://www.adzuna.com/land/ad/5821215257?se=VmIrgM6O8RGPFvkQNwX8EA&utm_medium=api&utm_source=9f1063e3&v=63A9146E4CE49E8605A1FB9FAD10B8E934D50E51",
       "source": "Adzuna (redirect link)"
     }
   ]
