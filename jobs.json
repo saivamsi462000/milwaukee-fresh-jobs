@@ -1,29 +1,13 @@
 {
-  "last_updated": "2026-08-06T00:02:39.048114+00:00",
+  "last_updated": "2026-08-06T14:21:10.589703+00:00",
   "freshness_window_days": 5,
   "jobs": [
-    {
-      "title": "Desktop Support",
-      "company": "Raas Info Solutions Pvt Ltd",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-08-05T05:37:14Z",
-      "url": "https://www.adzuna.com/land/ad/5828917144?se=nBnnHSqR8RGDPv78epVLvA&utm_medium=api&utm_source=9f1063e3&v=01C67EBACEF7A436A4710EE688F0F90224B8EDC1",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Desktop Support Technician",
-      "company": "Raas Info Solutions Pvt Ltd",
-      "location": "Racine, Racine County",
-      "posted": "2026-08-05T05:36:15Z",
-      "url": "https://www.adzuna.com/details/5828910838?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
     {
       "title": "Cyber SDC - OT - Lead Incident Response Coordinator",
       "company": "EY",
       "location": "West Milwaukee, Milwaukee County",
       "posted": "2026-08-02T01:33:20Z",
-      "url": "https://www.adzuna.com/land/ad/5825367347?se=0sJAHCqR8RGDPv78epVLvA&utm_medium=api&utm_source=9f1063e3&v=AA20D76834443503FE39119045D7BE24DBF43F24",
+      "url": "https://www.adzuna.com/land/ad/5825367347?se=yjrPDqKR8RGVBctEjI8xBw&utm_medium=api&utm_source=9f1063e3&v=AA20D76834443503FE39119045D7BE24DBF43F24",
       "source": "Adzuna (redirect link)"
     }
   ]
