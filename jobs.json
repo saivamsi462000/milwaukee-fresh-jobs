@@ -1,5 +1,22 @@
 {
-  "last_updated": "2026-08-07T13:12:18.199386+00:00",
+  "last_updated": "2026-08-07T23:36:48.651821+00:00",
   "freshness_window_days": 5,
-  "jobs": []
+  "jobs": [
+    {
+      "title": "Desktop Support Technician",
+      "company": "Raas Info Solutions Pvt Ltd",
+      "location": "Racine, Racine County",
+      "posted": "2026-08-07T05:42:44Z",
+      "url": "https://www.adzuna.com/land/ad/5831826246?se=Whv12LiS8RGWPoJqQXFPnw&utm_medium=api&utm_source=9f1063e3&v=B82EAAF9C5EBFF667BAB453B662BA206E2A121B4",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Desktop Support",
+      "company": "Raas Info Solutions Pvt Ltd",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-08-07T05:41:54Z",
+      "url": "https://www.adzuna.com/land/ad/5831821428?se=Whv12LiS8RGWPoJqQXFPnw&utm_medium=api&utm_source=9f1063e3&v=7C4B511D3F1FBFF1A6B00F0CCCF1F4474EEF20E5",
+      "source": "Adzuna (redirect link)"
+    }
+  ]
 }
