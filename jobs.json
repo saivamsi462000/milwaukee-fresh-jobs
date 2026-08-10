@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-08-10T13:16:39.464004+00:00",
+  "last_updated": "2026-08-10T23:38:16.290820+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
-      "title": "Senior Industrial Technical Support Specialist",
-      "company": "Generac",
-      "location": "Sussex, Waukesha County",
-      "posted": "2026-08-08T23:19:19Z",
-      "url": "https://www.adzuna.com/details/5834297291?utm_medium=api&utm_source=9f1063e3",
+      "title": "Desktop Support",
+      "company": "Raas Info Solutions Pvt Ltd",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-08-10T09:56:12Z",
+      "url": "https://www.adzuna.com/land/ad/5835640554?se=5HFijBSV8RGI3JXz7KkMuA&utm_medium=api&utm_source=9f1063e3&v=1A9B3CCB95ADAC13CF5E5658646BFB757EA7F24F",
       "source": "Adzuna (redirect link)"
     },
     {
       "title": "Desktop Support Technician",
       "company": "Raas Info Solutions Pvt Ltd",
       "location": "Racine, Racine County",
-      "posted": "2026-08-08T05:47:03Z",
-      "url": "https://www.adzuna.com/land/ad/5833295653?se=5EHUtb2U8RGWPoJqQXFPnw&utm_medium=api&utm_source=9f1063e3&v=1686F04777C72E5B51394083656B55F22AA9E684",
+      "posted": "2026-08-10T09:54:35Z",
+      "url": "https://www.adzuna.com/land/ad/5835628504?se=5HFijBSV8RGI3JXz7KkMuA&utm_medium=api&utm_source=9f1063e3&v=B9A2D6DAE6342CEDA7188F26FB92D0E829A1353A",
       "source": "Adzuna (redirect link)"
     },
     {
-      "title": "Desktop Support",
-      "company": "Raas Info Solutions Pvt Ltd",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-08-08T05:45:46Z",
-      "url": "https://www.adzuna.com/land/ad/5833287481?se=5EHUtb2U8RGWPoJqQXFPnw&utm_medium=api&utm_source=9f1063e3&v=0D9C993DF19E8A8ED59AE8C26C7968DCDC250DBA",
+      "title": "Senior Industrial Technical Support Specialist",
+      "company": "Generac",
+      "location": "Sussex, Waukesha County",
+      "posted": "2026-08-08T23:19:19Z",
+      "url": "https://www.adzuna.com/details/5834297291?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
