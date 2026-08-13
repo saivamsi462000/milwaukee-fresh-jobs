@@ -1,21 +1,29 @@
 {
-  "last_updated": "2026-08-13T13:19:47.614487+00:00",
+  "last_updated": "2026-08-13T23:45:20.313103+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Desktop Support Technician",
+      "company": "Raas Info Solutions Pvt Ltd",
+      "location": "Racine, Racine County",
+      "posted": "2026-08-13T06:05:26Z",
+      "url": "https://www.adzuna.com/land/ad/5840139553?se=DNDKB3GX8RGtU5Il3Z8v3A&utm_medium=api&utm_source=9f1063e3&v=C3800537DE71B4D5F1FED3E06BCE0002A24A4166",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Desktop Support",
+      "company": "Raas Info Solutions Pvt Ltd",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-08-13T06:05:05Z",
+      "url": "https://www.adzuna.com/land/ad/5840137462?se=DNDKB3GX8RGtU5Il3Z8v3A&utm_medium=api&utm_source=9f1063e3&v=859B0D320DE056B80EF3259FB88D0A6A85B0E946",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Customer Technical Specialist with Security Clearance",
       "company": "Peraton",
       "location": "Franklin, Milwaukee County",
       "posted": "2026-08-12T00:11:07Z",
-      "url": "https://www.adzuna.com/land/ad/5837723478?se=Bn_xoxmX8RGgB7BDOgfirQ&utm_medium=api&utm_source=9f1063e3&v=DA50FC7EFEBE9113A21CB469C91E98BCFFC88D43",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Senior Industrial Technical Support Specialist",
-      "company": "Generac",
-      "location": "Sussex, Waukesha County",
-      "posted": "2026-08-08T23:19:19Z",
-      "url": "https://www.adzuna.com/details/5834297291?utm_medium=api&utm_source=9f1063e3",
+      "url": "https://www.adzuna.com/land/ad/5837723478?se=OP4IBnGX8RGtU5Il3Z8v3A&utm_medium=api&utm_source=9f1063e3&v=DA50FC7EFEBE9113A21CB469C91E98BCFFC88D43",
       "source": "Adzuna (redirect link)"
     }
   ]
