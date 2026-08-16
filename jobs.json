@@ -1,21 +1,29 @@
 {
-  "last_updated": "2026-08-16T12:45:56.357384+00:00",
+  "last_updated": "2026-08-16T23:22:46.311844+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Desktop Support",
+      "company": "Raas Info Solutions Pvt Ltd",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-08-16T06:17:35Z",
+      "url": "https://www.adzuna.com/land/ad/5844124090?se=oseiYMmZ8RGXlua0wi23rg&utm_medium=api&utm_source=9f1063e3&v=0835543391596B15D6A52AECDC7B3C0E588B55A6",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Desktop Support Technician",
+      "company": "Raas Info Solutions Pvt Ltd",
+      "location": "Racine, Racine County",
+      "posted": "2026-08-16T06:14:20Z",
+      "url": "https://www.adzuna.com/land/ad/5844109457?se=oseiYMmZ8RGXlua0wi23rg&utm_medium=api&utm_source=9f1063e3&v=359216724B24B75255E54A3BA9A891AEA707C4EB",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Technical Support Specialist - Utilities",
       "company": "Badger Meter",
       "location": "Saint Francis, Milwaukee County",
       "posted": "2026-08-15T18:24:05Z",
-      "url": "https://www.adzuna.com/land/ad/5843603705?se=ou7MaHCZ8RGXlua0wi23rg&utm_medium=api&utm_source=9f1063e3&v=E5FD9644B1E66A929E5B3D21FCE59CD7E234265B",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Service Technical Support Specialist - Agriculture Equipment",
-      "company": "CNH Industrial N.V.",
-      "location": "Racine, Racine County",
-      "posted": "2026-08-14T20:51:32Z",
-      "url": "https://www.adzuna.com/land/ad/5842515204?se=ou7MaHCZ8RGXlua0wi23rg&utm_medium=api&utm_source=9f1063e3&v=543D68FA8F1E2182C31502CA72E6EAE62026155F",
+      "url": "https://www.adzuna.com/land/ad/5843603705?se=3sbWX8mZ8RGi1Lq4sjxNVw&utm_medium=api&utm_source=9f1063e3&v=E5FD9644B1E66A929E5B3D21FCE59CD7E234265B",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -23,7 +31,7 @@
       "company": "ABB Inc.",
       "location": "New Berlin, Waukesha County",
       "posted": "2026-08-14T20:51:28Z",
-      "url": "https://www.adzuna.com/land/ad/5842514950?se=ou7MaHCZ8RGXlua0wi23rg&utm_medium=api&utm_source=9f1063e3&v=AF6131277AD4D68D41DAE8E75F205CBE309A74FE",
+      "url": "https://www.adzuna.com/land/ad/5842514950?se=3sbWX8mZ8RGi1Lq4sjxNVw&utm_medium=api&utm_source=9f1063e3&v=AF6131277AD4D68D41DAE8E75F205CBE309A74FE",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -31,7 +39,7 @@
       "company": "Komatsu America",
       "location": "Saint Francis, Milwaukee County",
       "posted": "2026-08-14T20:32:28Z",
-      "url": "https://www.adzuna.com/land/ad/5842492490?se=rpOiaXCZ8RGqM9tlrK2FfQ&utm_medium=api&utm_source=9f1063e3&v=75BFDE17E1E725556269D171E27DC0192B19D2CA",
+      "url": "https://www.adzuna.com/land/ad/5842492490?se=oseiYMmZ8RGXlua0wi23rg&utm_medium=api&utm_source=9f1063e3&v=75BFDE17E1E725556269D171E27DC0192B19D2CA",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -39,7 +47,7 @@
       "company": "Komatsu America",
       "location": "Saint Francis, Milwaukee County",
       "posted": "2026-08-14T20:31:55Z",
-      "url": "https://www.adzuna.com/land/ad/5842491689?se=rpOiaXCZ8RGqM9tlrK2FfQ&utm_medium=api&utm_source=9f1063e3&v=56AAAD26CFA59182F7190001CB175DCA467C607A",
+      "url": "https://www.adzuna.com/land/ad/5842491689?se=oseiYMmZ8RGXlua0wi23rg&utm_medium=api&utm_source=9f1063e3&v=56AAAD26CFA59182F7190001CB175DCA467C607A",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -47,7 +55,7 @@
       "company": "Generac Power Systems Inc",
       "location": "Sussex, Waukesha County",
       "posted": "2026-08-14T08:12:47Z",
-      "url": "https://www.adzuna.com/land/ad/5841808590?se=ou7MaHCZ8RGXlua0wi23rg&utm_medium=api&utm_source=9f1063e3&v=960EAD60D8CC3B040DCC77039B2DC26C09CA7F30",
+      "url": "https://www.adzuna.com/land/ad/5841808590?se=3sbWX8mZ8RGi1Lq4sjxNVw&utm_medium=api&utm_source=9f1063e3&v=960EAD60D8CC3B040DCC77039B2DC26C09CA7F30",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -55,7 +63,7 @@
       "company": "Generac Power Systems Inc",
       "location": "Sussex, Waukesha County",
       "posted": "2026-08-14T08:12:17Z",
-      "url": "https://www.adzuna.com/land/ad/5841807690?se=ou7MaHCZ8RGXlua0wi23rg&utm_medium=api&utm_source=9f1063e3&v=1C2E13999EF9306AABBD6795720C0874678B5845",
+      "url": "https://www.adzuna.com/land/ad/5841807690?se=3sbWX8mZ8RGi1Lq4sjxNVw&utm_medium=api&utm_source=9f1063e3&v=1C2E13999EF9306AABBD6795720C0874678B5845",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -63,7 +71,7 @@
       "company": "Peraton",
       "location": "Franklin, Milwaukee County",
       "posted": "2026-08-12T00:11:07Z",
-      "url": "https://www.adzuna.com/land/ad/5837723478?se=ou7MaHCZ8RGXlua0wi23rg&utm_medium=api&utm_source=9f1063e3&v=DA50FC7EFEBE9113A21CB469C91E98BCFFC88D43",
+      "url": "https://www.adzuna.com/land/ad/5837723478?se=3sbWX8mZ8RGi1Lq4sjxNVw&utm_medium=api&utm_source=9f1063e3&v=DA50FC7EFEBE9113A21CB469C91E98BCFFC88D43",
       "source": "Adzuna (redirect link)"
     }
   ]
