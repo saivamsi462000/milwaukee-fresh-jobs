@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-08-19T12:53:50.773424+00:00",
+  "last_updated": "2026-08-19T23:25:51.896065+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Desktop Support Technician",
+      "company": "Raas Info Solutions Pvt Ltd",
+      "location": "Racine, Racine County",
+      "posted": "2026-08-19T05:38:00Z",
+      "url": "https://www.adzuna.com/land/ad/5847989438?se=ZDU7TiWc8RGQor-L2zKR7A&utm_medium=api&utm_source=9f1063e3&v=BD818B77471F4F206EBEA1941B7825462335E318",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Desktop Support",
+      "company": "Raas Info Solutions Pvt Ltd",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-08-19T05:32:27Z",
+      "url": "https://www.adzuna.com/land/ad/5847982271?se=ZDU7TiWc8RGQor-L2zKR7A&utm_medium=api&utm_source=9f1063e3&v=2123080D338E588642EE1C4605B4A9F75312D77A",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "VFD Technical Support Specialist",
       "company": "ABB",
@@ -15,7 +31,7 @@
       "company": "Molson Coors Brewing Company",
       "location": "Saint Francis, Milwaukee County",
       "posted": "2026-08-16T21:19:43Z",
-      "url": "https://www.adzuna.com/land/ad/5844788501?se=YEFdBM2b8RGbDNuxCsLVcw&utm_medium=api&utm_source=9f1063e3&v=8F9480143A92640029542D3D6143A48D54FA3399",
+      "url": "https://www.adzuna.com/land/ad/5844788501?se=rLEWTyWc8RGlrvMe-VN8Yg&utm_medium=api&utm_source=9f1063e3&v=8F9480143A92640029542D3D6143A48D54FA3399",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -23,31 +39,7 @@
       "company": "Badger Meter",
       "location": "Saint Francis, Milwaukee County",
       "posted": "2026-08-15T18:24:05Z",
-      "url": "https://www.adzuna.com/land/ad/5843603705?se=ALmSAs2b8RGUGa3YnI-lzA&utm_medium=api&utm_source=9f1063e3&v=E5FD9644B1E66A929E5B3D21FCE59CD7E234265B",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "VFD Technical Support Specialist",
-      "company": "ABB Inc.",
-      "location": "New Berlin, Waukesha County",
-      "posted": "2026-08-14T20:51:28Z",
-      "url": "https://www.adzuna.com/land/ad/5842514950?se=ALmSAs2b8RGUGa3YnI-lzA&utm_medium=api&utm_source=9f1063e3&v=AF6131277AD4D68D41DAE8E75F205CBE309A74FE",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Sr. Desktop Support Technician",
-      "company": "Komatsu America",
-      "location": "Saint Francis, Milwaukee County",
-      "posted": "2026-08-14T20:32:28Z",
-      "url": "https://www.adzuna.com/land/ad/5842492490?se=ABCGA82b8RGUGa3YnI-lzA&utm_medium=api&utm_source=9f1063e3&v=75BFDE17E1E725556269D171E27DC0192B19D2CA",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "IT Desktop Support Technician",
-      "company": "Komatsu America",
-      "location": "Saint Francis, Milwaukee County",
-      "posted": "2026-08-14T20:31:55Z",
-      "url": "https://www.adzuna.com/land/ad/5842491689?se=ABCGA82b8RGUGa3YnI-lzA&utm_medium=api&utm_source=9f1063e3&v=56AAAD26CFA59182F7190001CB175DCA467C607A",
+      "url": "https://www.adzuna.com/land/ad/5843603705?se=sidHTSWc8RGlrvMe-VN8Yg&utm_medium=api&utm_source=9f1063e3&v=E5FD9644B1E66A929E5B3D21FCE59CD7E234265B",
       "source": "Adzuna (redirect link)"
     }
   ]
