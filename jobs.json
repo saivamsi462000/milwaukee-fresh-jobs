@@ -1,5 +1,22 @@
 {
-  "last_updated": "2026-08-27T04:25:05.811374+00:00",
+  "last_updated": "2026-08-27T22:00:58.650311+00:00",
   "freshness_window_days": 5,
-  "jobs": []
+  "jobs": [
+    {
+      "title": "Pouching Operator - 2rd Shift",
+      "company": "Glenroy, Inc.",
+      "location": "Menomonee Falls, Waukesha County",
+      "posted": "2026-08-26T22:56:10Z",
+      "url": "https://www.adzuna.com/details/5857817516?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "QA Technician - Days",
+      "company": "Campbell's",
+      "location": "Franklin, Milwaukee County",
+      "posted": "2026-08-26T03:34:12Z",
+      "url": "https://www.adzuna.com/details/5856520361?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    }
+  ]
 }
