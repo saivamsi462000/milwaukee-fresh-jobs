@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-09-01T01:43:37.897132+00:00",
+  "last_updated": "2026-09-01T16:18:28.245088+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Technical Support (Manufacturing)",
+      "company": "Kelly Services",
+      "location": "Jackson, Washington County",
+      "posted": "2026-09-01T03:46:18Z",
+      "url": "https://www.adzuna.com/details/5864057385?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Senior Industrial Technical Support Specialist",
       "company": "Generac",
