@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-09-02T16:15:47.752637+00:00",
+  "last_updated": "2026-09-03T01:00:47.350812+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "IT Support Technician - Help Desk",
+      "company": "Expert Institute",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-09-02T18:58:04Z",
+      "url": "https://www.adzuna.com/details/5867716433?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Process Specialist",
+      "company": "Microbial Discovery Group",
+      "location": "Franklin, Milwaukee County",
+      "posted": "2026-09-02T17:07:57Z",
+      "url": "https://www.adzuna.com/details/5867588320?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Industrial Technical Support Specialist",
       "company": "Generac",
@@ -15,15 +31,7 @@
       "company": "Kelly Services",
       "location": "Jackson, Washington County",
       "posted": "2026-09-02T01:59:30Z",
-      "url": "https://www.adzuna.com/land/ad/5866609289?se=BvgLi-mm8RG9hZZomVLVEQ&utm_medium=api&utm_source=9f1063e3&v=4FE488E22DA9F92CEDB7C5ECC029C66EDC16D24B",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Senior Industrial Technical Support Specialist",
-      "company": "Generac",
-      "location": "Sussex, Waukesha County",
-      "posted": "2026-08-29T00:05:56Z",
-      "url": "https://www.adzuna.com/details/5860716506?utm_medium=api&utm_source=9f1063e3",
+      "url": "https://www.adzuna.com/land/ad/5866609289?se=gkIL4DKn8RG3Cdr2HU7o0Q&utm_medium=api&utm_source=9f1063e3&v=4FE488E22DA9F92CEDB7C5ECC029C66EDC16D24B",
       "source": "Adzuna (redirect link)"
     }
   ]
