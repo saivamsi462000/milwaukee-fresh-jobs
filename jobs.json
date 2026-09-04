@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-09-04T00:51:43.363427+00:00",
+  "last_updated": "2026-09-04T16:01:02.282196+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Industrial Technical Support Specialist",
+      "company": "Duravant",
+      "location": "Sussex, Waukesha County",
+      "posted": "2026-09-04T02:41:10Z",
+      "url": "https://www.adzuna.com/details/5870174728?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Associate Technical Support Specialist (Part-Time)",
+      "company": "Concurrency",
+      "location": "Brookfield, Waukesha County",
+      "posted": "2026-09-04T00:54:14Z",
+      "url": "https://www.adzuna.com/details/5870030769?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "IT Support Technician - Help Desk",
       "company": "Expert Institute",
