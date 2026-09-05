@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-09-04T16:01:02.282196+00:00",
+  "last_updated": "2026-09-05T00:44:13.404163+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Process Specialist",
+      "company": "Microbial Discovery Group",
+      "location": "Franklin, Milwaukee County",
+      "posted": "2026-09-04T13:02:39Z",
+      "url": "https://www.adzuna.com/land/ad/5870877287?se=WAZ15sKo8RGogquEo3zAlQ&utm_medium=api&utm_source=9f1063e3&v=6C90E69474A7F591D28DB504C9F4D04FDA92CB6D",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Industrial Technical Support Specialist",
       "company": "Duravant",
