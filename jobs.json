@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T00:47:36.625719+00:00",
+  "last_updated": "2026-09-07T17:33:36.837347+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
@@ -32,22 +32,6 @@
       "location": "Milwaukee, Milwaukee County",
       "posted": "2026-09-02T18:58:04Z",
       "url": "https://www.adzuna.com/details/5867716433?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Process Specialist",
-      "company": "Microbial Discovery Group",
-      "location": "Franklin, Milwaukee County",
-      "posted": "2026-09-02T17:07:57Z",
-      "url": "https://www.adzuna.com/details/5867588320?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Industrial Technical Support Specialist",
-      "company": "Generac",
-      "location": "Sussex, Waukesha County",
-      "posted": "2026-09-02T07:48:39Z",
-      "url": "https://www.adzuna.com/details/5867064018?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
