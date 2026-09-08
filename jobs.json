@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T17:33:36.837347+00:00",
+  "last_updated": "2026-09-08T01:01:19.413114+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
@@ -24,14 +24,6 @@
       "location": "Brookfield, Waukesha County",
       "posted": "2026-09-04T00:54:14Z",
       "url": "https://www.adzuna.com/details/5870030769?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "IT Support Technician - Help Desk",
-      "company": "Expert Institute",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-09-02T18:58:04Z",
-      "url": "https://www.adzuna.com/details/5867716433?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
