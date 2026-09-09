@@ -1,29 +1,13 @@
 {
-  "last_updated": "2026-09-09T01:06:26.237768+00:00",
+  "last_updated": "2026-09-09T16:14:18.943794+00:00",
   "freshness_window_days": 5,
   "jobs": [
-    {
-      "title": "QA/QC Technician",
-      "company": "Hooper Deforest",
-      "location": "Wauwatosa, Milwaukee County",
-      "posted": "2026-09-08T13:15:36Z",
-      "url": "https://www.adzuna.com/land/ad/5875797581?se=8mbjrOqr8RG4G8zh97Y-7Q&utm_medium=api&utm_source=9f1063e3&v=E8E2B64A7B982449AE348AD4A0BBE1227E8FB8BF",
-      "source": "Adzuna (redirect link)"
-    },
     {
       "title": "Manager of Technical Service, Ruminant Animal Health",
       "company": "Chr. Hansen",
       "location": "West Allis, Milwaukee County",
       "posted": "2026-09-05T09:19:21Z",
       "url": "https://www.adzuna.com/details/5871997894?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Industrial Technical Support Specialist",
-      "company": "Duravant",
-      "location": "Sussex, Waukesha County",
-      "posted": "2026-09-04T02:41:10Z",
-      "url": "https://www.adzuna.com/details/5870174728?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
