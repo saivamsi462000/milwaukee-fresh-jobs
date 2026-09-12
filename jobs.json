@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-09-12T00:57:34.609123+00:00",
+  "last_updated": "2026-09-12T15:16:33.260305+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "QA/QC Technician - Process Piping",
+      "company": "Hooper Deforest",
+      "location": "Elm Grove, Waukesha County",
+      "posted": "2026-09-12T03:16:02Z",
+      "url": "https://www.adzuna.com/details/5880713029?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "IT Field Support Specialist",
       "company": "The Walsh Group",
       "location": "Racine, Racine County",
       "posted": "2026-09-11T07:36:36Z",
-      "url": "https://www.adzuna.com/land/ad/5879650087?se=Xt5_7kSu8RGhe8--YZ_w9w&utm_medium=api&utm_source=9f1063e3&v=5A7D1E2BD884F58760CA65BEA3D100FD9E60BBB7",
+      "url": "https://www.adzuna.com/land/ad/5879650087?se=7Pve7byu8RGtce7t1ObUOQ&utm_medium=api&utm_source=9f1063e3&v=5A7D1E2BD884F58760CA65BEA3D100FD9E60BBB7",
       "source": "Adzuna (redirect link)"
     },
     {
