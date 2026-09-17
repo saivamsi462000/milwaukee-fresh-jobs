@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-09-17T01:11:33.602415+00:00",
+  "last_updated": "2026-09-17T16:34:30.358863+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Automation Engineering Intern",
+      "company": "Chr. Hansen",
+      "location": "West Allis, Milwaukee County",
+      "posted": "2026-09-17T01:57:55Z",
+      "url": "https://www.adzuna.com/details/5887259167?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Technical Support Specialist",
+      "company": "Mayville Engineering Co. Brand",
+      "location": "West Allis, Milwaukee County",
+      "posted": "2026-09-17T00:37:23Z",
+      "url": "https://www.adzuna.com/details/5887163810?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Technician 1 - Help Desk Support",
       "company": "Maximus",
@@ -32,14 +48,6 @@
       "location": "Milwaukee, Milwaukee County",
       "posted": "2026-09-12T18:31:45Z",
       "url": "https://www.adzuna.com/details/5881855054?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "QA/QC Technician - Process Piping",
-      "company": "Hooper Deforest",
-      "location": "Elm Grove, Waukesha County",
-      "posted": "2026-09-12T03:16:02Z",
-      "url": "https://www.adzuna.com/details/5880713029?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
