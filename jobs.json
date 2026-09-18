@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-09-18T01:07:31.044822+00:00",
+  "last_updated": "2026-09-18T16:06:09.751815+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Desktop Support Technician",
+      "company": "A3 Solutions",
+      "location": "New Berlin, Waukesha County",
+      "posted": "2026-09-18T09:37:45Z",
+      "url": "https://www.adzuna.com/details/5889308135?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "IT Support Supervisor",
+      "company": "Revel Staffing",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-09-17T07:48:20Z",
+      "url": "https://www.adzuna.com/details/5887628676?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Automation Engineering Intern",
       "company": "Chr. Hansen",
