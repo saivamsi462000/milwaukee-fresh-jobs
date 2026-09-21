@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-09-21T00:55:39.808863+00:00",
+  "last_updated": "2026-09-21T18:02:49.415393+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Failure Analysis Engineer",
+      "company": "Foxconn WI",
+      "location": "Mount Pleasant, Racine County",
+      "posted": "2026-09-21T13:39:51Z",
+      "url": "https://www.adzuna.com/land/ad/5893012256?se=uE85p-a18RGlcMAF9-WSMw&utm_medium=api&utm_source=9f1063e3&v=2DE7A735676BF2643EA47944DE591689A93C8117",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Online Course Administration Specialist",
       "company": "Concordia University Wisconsin/Ann Arbor",
@@ -16,14 +24,6 @@
       "location": "New Berlin, Waukesha County",
       "posted": "2026-09-18T09:37:45Z",
       "url": "https://www.adzuna.com/details/5889308135?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Front Office Coordinator - Hartford, WI",
-      "company": "Athletico",
-      "location": "Saint Francis, Milwaukee County",
-      "posted": "2026-09-17T10:43:46Z",
-      "url": "https://www.adzuna.com/details/5887753364?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -48,22 +48,6 @@
       "location": "West Allis, Milwaukee County",
       "posted": "2026-09-17T00:37:23Z",
       "url": "https://www.adzuna.com/details/5887163810?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Technical Support Specialist",
-      "company": "Formlabs",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-09-16T05:25:28Z",
-      "url": "https://www.adzuna.com/details/5885909582?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Debug Technician",
-      "company": "Foxconn WI",
-      "location": "Mount Pleasant, Racine County",
-      "posted": "2026-09-16T01:27:45Z",
-      "url": "https://www.adzuna.com/land/ad/5885678965?se=uGluKVe18RGm1alvctyjWA&utm_medium=api&utm_source=9f1063e3&v=30947249602D914FFFEEDAF093CEDC7BF68C7F9D",
       "source": "Adzuna (redirect link)"
     }
   ]
