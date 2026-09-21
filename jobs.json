@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T15:43:52.557543+00:00",
+  "last_updated": "2026-09-21T00:55:39.808863+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
@@ -56,6 +56,14 @@
       "location": "Milwaukee, Milwaukee County",
       "posted": "2026-09-16T05:25:28Z",
       "url": "https://www.adzuna.com/details/5885909582?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Debug Technician",
+      "company": "Foxconn WI",
+      "location": "Mount Pleasant, Racine County",
+      "posted": "2026-09-16T01:27:45Z",
+      "url": "https://www.adzuna.com/land/ad/5885678965?se=uGluKVe18RGm1alvctyjWA&utm_medium=api&utm_source=9f1063e3&v=30947249602D914FFFEEDAF093CEDC7BF68C7F9D",
       "source": "Adzuna (redirect link)"
     }
   ]
