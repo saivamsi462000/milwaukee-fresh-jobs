@@ -1,13 +1,29 @@
 {
-  "last_updated": "2026-09-25T01:15:58.859607+00:00",
+  "last_updated": "2026-09-25T16:53:12.975242+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "IT Helpdesk & Network Support Specialist",
+      "company": "Drake & Associates",
+      "location": "Vernon, Waukesha County",
+      "posted": "2026-09-25T03:39:25Z",
+      "url": "https://www.adzuna.com/details/5898026625?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "QA/QC Technician",
+      "company": "Hooper Deforest",
+      "location": "Wauwatosa, Milwaukee County",
+      "posted": "2026-09-25T01:53:08Z",
+      "url": "https://www.adzuna.com/land/ad/5897960999?se=bAcBlwG58RG3jpCv9xpWmA&utm_medium=api&utm_source=9f1063e3&v=2B021D8AC5D6444E72B873FF723DC42026B0971B",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Failure Analysis Engineer",
       "company": "Foxconn WI",
       "location": "Mount Pleasant, Racine County",
-      "posted": "2026-09-24T13:52:43Z",
-      "url": "https://www.adzuna.com/land/ad/5897195816?se=AsOxqX648RGj3rbruZk4CQ&utm_medium=api&utm_source=9f1063e3&v=D04750FA00D55E728007413D07522DEAFB94BDEA",
+      "posted": "2026-09-24T01:50:42Z",
+      "url": "https://www.adzuna.com/land/ad/5896373744?se=lrjPlwG58RGGQ9u1mQKVdw&utm_medium=api&utm_source=9f1063e3&v=0C91278615FC086C6E2A6759282A0D48BCEF1487",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -16,6 +32,14 @@
       "location": "Brown Deer, Milwaukee County",
       "posted": "2026-09-23T03:27:57Z",
       "url": "https://www.adzuna.com/details/5894908390?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Failure Analysis Engineer",
+      "company": "Foxconn WI",
+      "location": "Mount Pleasant, Racine County",
+      "posted": "2026-09-22T13:45:02Z",
+      "url": "https://www.adzuna.com/land/ad/5894187644?se=lrjPlwG58RGGQ9u1mQKVdw&utm_medium=api&utm_source=9f1063e3&v=158B5D514EF4E102BCF177B9B1E93CFFDC0AA6C3",
       "source": "Adzuna (redirect link)"
     }
   ]
