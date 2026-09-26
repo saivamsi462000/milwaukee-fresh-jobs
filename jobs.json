@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T01:18:07.241267+00:00",
+  "last_updated": "2026-09-26T16:04:08.085843+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
@@ -24,14 +24,6 @@
       "location": "Brown Deer, Milwaukee County",
       "posted": "2026-09-23T03:27:57Z",
       "url": "https://www.adzuna.com/details/5894908390?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Failure Analysis Engineer",
-      "company": "Foxconn WI",
-      "location": "Mount Pleasant, Racine County",
-      "posted": "2026-09-22T13:45:02Z",
-      "url": "https://www.adzuna.com/land/ad/5894187644?se=vDKXIEi58RGMa97zoXXoXw&utm_medium=api&utm_source=9f1063e3&v=158B5D514EF4E102BCF177B9B1E93CFFDC0AA6C3",
       "source": "Adzuna (redirect link)"
     }
   ]
