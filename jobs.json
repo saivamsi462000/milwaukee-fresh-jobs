@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T16:40:55.768793+00:00",
+  "last_updated": "2026-09-28T01:28:07.620960+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
@@ -7,15 +7,7 @@
       "company": "Actalent",
       "location": "Racine, Racine County",
       "posted": "2026-09-27T06:53:52Z",
-      "url": "https://www.adzuna.com/land/ad/5900552310?se=7tFmNJK68RGDS5hMKlpdiw&utm_medium=api&utm_source=9f1063e3&v=C3B26DA21AB9D4E5C5A1A13336D97FD7A30239A9",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Assistant Quality Assurance and Food Safety Manager",
-      "company": "Cut Fresh LLC",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-09-27T01:58:37Z",
-      "url": "https://www.adzuna.com/land/ad/5900363767?se=7tFmNJK68RGDS5hMKlpdiw&utm_medium=api&utm_source=9f1063e3&v=4B2AF89C1D194928DB50024E55F61366735B90F3",
+      "url": "https://www.adzuna.com/land/ad/5900552310?se=FNtv2tu68RGGQ9u1mQKVdw&utm_medium=api&utm_source=9f1063e3&v=C3B26DA21AB9D4E5C5A1A13336D97FD7A30239A9",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -24,6 +16,14 @@
       "location": "Germantown, Washington County",
       "posted": "2026-09-26T03:27:09Z",
       "url": "https://www.adzuna.com/details/5899393994?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Failure Analysis Engineer",
+      "company": "Foxconn WI",
+      "location": "Mount Pleasant, Racine County",
+      "posted": "2026-09-26T01:55:29Z",
+      "url": "https://www.adzuna.com/land/ad/5899334358?se=hlhI29u68RG3G-cYB30yPw&utm_medium=api&utm_source=9f1063e3&v=F3DF3CF14621396008B0E4163CCB024F82702FCC",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -43,11 +43,11 @@
       "source": "Adzuna (redirect link)"
     },
     {
-      "title": "Failure Analysis Engineer",
-      "company": "Foxconn WI",
-      "location": "Mount Pleasant, Racine County",
-      "posted": "2026-09-24T13:52:43Z",
-      "url": "https://www.adzuna.com/land/ad/5897195816?se=9BRANZK68RG3jpCv9xpWmA&utm_medium=api&utm_source=9f1063e3&v=D04750FA00D55E728007413D07522DEAFB94BDEA",
+      "title": "QA/QC Technician",
+      "company": "Hooper Deforest",
+      "location": "Wauwatosa, Milwaukee County",
+      "posted": "2026-09-25T01:53:08Z",
+      "url": "https://www.adzuna.com/land/ad/5897960999?se=FNtv2tu68RGGQ9u1mQKVdw&utm_medium=api&utm_source=9f1063e3&v=2B021D8AC5D6444E72B873FF723DC42026B0971B",
       "source": "Adzuna (redirect link)"
     },
     {
