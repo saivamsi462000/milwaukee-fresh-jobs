@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T18:14:22.057005+00:00",
+  "last_updated": "2026-10-02T02:04:00.205220+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
@@ -7,7 +7,7 @@
       "company": "W3Global Inc.",
       "location": "Milwaukee, Milwaukee County",
       "posted": "2026-09-30T06:20:10Z",
-      "url": "https://www.adzuna.com/land/ad/5903707435?se=lOO468O98RGM7phr7jBbLQ&utm_medium=api&utm_source=9f1063e3&v=B173561107E9EC91BEBC7F0E0922AA439CC5B51B",
+      "url": "https://www.adzuna.com/land/ad/5903707435?se=1pMrhgW-8RGB24APz-7fbw&utm_medium=api&utm_source=9f1063e3&v=B173561107E9EC91BEBC7F0E0922AA439CC5B51B",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -23,15 +23,7 @@
       "company": "Actalent",
       "location": "Racine, Racine County",
       "posted": "2026-09-27T06:53:52Z",
-      "url": "https://www.adzuna.com/land/ad/5900552310?se=lOO468O98RGM7phr7jBbLQ&utm_medium=api&utm_source=9f1063e3&v=C3B26DA21AB9D4E5C5A1A13336D97FD7A30239A9",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Assistant Quality Assurance and Food Safety Manager",
-      "company": "Cut Fresh LLC",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-09-27T01:58:37Z",
-      "url": "https://www.adzuna.com/land/ad/5900363767?se=lOO468O98RGM7phr7jBbLQ&utm_medium=api&utm_source=9f1063e3&v=4B2AF89C1D194928DB50024E55F61366735B90F3",
+      "url": "https://www.adzuna.com/land/ad/5900552310?se=1pMrhgW-8RGB24APz-7fbw&utm_medium=api&utm_source=9f1063e3&v=C3B26DA21AB9D4E5C5A1A13336D97FD7A30239A9",
       "source": "Adzuna (redirect link)"
     }
   ]
