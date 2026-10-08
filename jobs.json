@@ -1,101 +1,13 @@
 {
-  "last_updated": "2026-10-08T02:36:06.054688+00:00",
+  "last_updated": "2026-10-08T18:39:26.720083+00:00",
   "freshness_window_days": 5,
   "jobs": [
-    {
-      "title": "Quality Assurance Supervisor, Nights",
-      "company": "Nature's Path",
-      "location": "Lisbon, Waukesha County",
-      "posted": "2026-10-07T02:32:32Z",
-      "url": "https://www.adzuna.com/land/ad/5916087848?se=4JZ0AcHC8RGZkI6MZGOHvA&utm_medium=api&utm_source=9f1063e3&v=183663E7A901A1266F20B574D655FEFF3E53E735",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Failure Analysis Engineer",
-      "company": "Foxconn WI",
-      "location": "Mount Pleasant, Racine County",
-      "posted": "2026-10-07T01:41:17Z",
-      "url": "https://www.adzuna.com/land/ad/5915677569?se=JgVWAsHC8RGp6sQHXsfIkw&utm_medium=api&utm_source=9f1063e3&v=3E2872548E758E1BD67D6C235895FFC0488AD960",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Technical Support Specialist",
-      "company": "Revolution Search Group",
-      "location": "Saint Francis, Milwaukee County",
-      "posted": "2026-10-07T01:15:29Z",
-      "url": "https://www.adzuna.com/land/ad/5915574556?se=jlJj_sDC8RGp6sQHXsfIkw&utm_medium=api&utm_source=9f1063e3&v=E5734C424A330D12DBBA9E33D211DD73BD0B6E25",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Technical Support Specialist",
-      "company": "Revolution Search Group",
-      "location": "Saint Francis, Milwaukee County",
-      "posted": "2026-10-07T01:15:29Z",
-      "url": "https://www.adzuna.com/land/ad/5915574556?se=Fq1X_8DC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=9f1063e3&v=E5734C424A330D12DBBA9E33D211DD73BD0B6E25",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Technical Support Specialist",
-      "company": "Revolution Search Group",
-      "location": "Saint Francis, Milwaukee County",
-      "posted": "2026-10-07T01:15:29Z",
-      "url": "https://www.adzuna.com/land/ad/5915574556?se=oE4_AMHC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=9f1063e3&v=E5734C424A330D12DBBA9E33D211DD73BD0B6E25",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Technical Support Specialist",
-      "company": "Tier4 Group",
-      "location": "Franklin, Milwaukee County",
-      "posted": "2026-10-06T23:08:11Z",
-      "url": "https://www.adzuna.com/land/ad/5915210023?se=jlJj_sDC8RGp6sQHXsfIkw&utm_medium=api&utm_source=9f1063e3&v=B52C4DE8850D7DAC427B5EA2E559C64F4501CE77",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Technical Support Specialist",
-      "company": "Revolution Search Group",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-10-06T22:42:50Z",
-      "url": "https://www.adzuna.com/land/ad/5915057852?se=jlJj_sDC8RGp6sQHXsfIkw&utm_medium=api&utm_source=9f1063e3&v=6FAE6857F3D799A4D7D5EC6E694BA1ECD9D2EC1D",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Technical Support Specialist",
-      "company": "Revolution Search Group",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-10-06T22:42:50Z",
-      "url": "https://www.adzuna.com/land/ad/5915057852?se=Fq1X_8DC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=9f1063e3&v=6FAE6857F3D799A4D7D5EC6E694BA1ECD9D2EC1D",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Technical Support Specialist",
-      "company": "Revolution Search Group",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-10-06T22:42:50Z",
-      "url": "https://www.adzuna.com/land/ad/5915057852?se=oE4_AMHC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=9f1063e3&v=6FAE6857F3D799A4D7D5EC6E694BA1ECD9D2EC1D",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Debug Technician",
-      "company": "Foxconn WI",
-      "location": "Mount Pleasant, Racine County",
-      "posted": "2026-10-06T21:14:01Z",
-      "url": "https://www.adzuna.com/land/ad/5914708571?se=JgVWAsHC8RGp6sQHXsfIkw&utm_medium=api&utm_source=9f1063e3&v=1749B663D78895261C72A867C3B043AC2961C4C0",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Sr IT Application Support Specialist (Milwaukee, WI, US)",
-      "company": "Molson Coors Brewing Company",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-10-06T20:35:36Z",
-      "url": "https://www.adzuna.com/land/ad/5914536391?se=oE4_AMHC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=9f1063e3&v=EDC805205BDB2B0810F9D1C28BEAE160C1A2851A",
-      "source": "Adzuna (redirect link)"
-    },
     {
       "title": "Help Desk Technician",
       "company": "Robert Half",
       "location": "South Milwaukee, Milwaukee County",
       "posted": "2026-10-06T12:28:52Z",
-      "url": "https://www.adzuna.com/land/ad/5914057016?se=KiZ3_cDC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=9f1063e3&v=7D77DD2B15FCF77A7F576DDB3841D0032A473108",
+      "url": "https://www.adzuna.com/land/ad/5914057016?se=XMjhkUfD8RGFeJNPAywTzg&utm_medium=api&utm_source=9f1063e3&v=7D77DD2B15FCF77A7F576DDB3841D0032A473108",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -103,7 +15,7 @@
       "company": "Pattyn",
       "location": "Sussex, Waukesha County",
       "posted": "2026-10-06T12:28:48Z",
-      "url": "https://www.adzuna.com/land/ad/5914056355?se=jlJj_sDC8RGp6sQHXsfIkw&utm_medium=api&utm_source=9f1063e3&v=0CB02EE57F43DDF88F17022B8DBA58A7F3B17094",
+      "url": "https://www.adzuna.com/land/ad/5914056355?se=OsbDkkfD8RGFeJNPAywTzg&utm_medium=api&utm_source=9f1063e3&v=0CB02EE57F43DDF88F17022B8DBA58A7F3B17094",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -111,7 +23,7 @@
       "company": "Pattyn",
       "location": "Sussex, Waukesha County",
       "posted": "2026-10-06T12:28:48Z",
-      "url": "https://www.adzuna.com/land/ad/5914056355?se=oE4_AMHC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=9f1063e3&v=0CB02EE57F43DDF88F17022B8DBA58A7F3B17094",
+      "url": "https://www.adzuna.com/land/ad/5914056355?se=jEWMlEfD8RGehKgrpTYXiQ&utm_medium=api&utm_source=9f1063e3&v=0CB02EE57F43DDF88F17022B8DBA58A7F3B17094",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -119,7 +31,7 @@
       "company": "AVIRE",
       "location": "Sussex, Waukesha County",
       "posted": "2026-10-06T12:27:48Z",
-      "url": "https://www.adzuna.com/land/ad/5914046843?se=jlJj_sDC8RGp6sQHXsfIkw&utm_medium=api&utm_source=9f1063e3&v=59DE618B09FD958CF80D3B9B6656275E71D11B59",
+      "url": "https://www.adzuna.com/land/ad/5914046843?se=OsbDkkfD8RGFeJNPAywTzg&utm_medium=api&utm_source=9f1063e3&v=59DE618B09FD958CF80D3B9B6656275E71D11B59",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -139,19 +51,27 @@
       "source": "Adzuna (redirect link)"
     },
     {
+      "title": "Director, Application Engineering",
+      "company": "Generac Power Systems",
+      "location": "Sussex, Waukesha County",
+      "posted": "2026-10-05T07:15:10Z",
+      "url": "https://www.adzuna.com/land/ad/5912434059?se=OsbDkkfD8RGFeJNPAywTzg&utm_medium=api&utm_source=9f1063e3&v=A15D97A8B28EDB9C81A2EBF8D881EE2BA7012229",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Director, Application Engineering",
+      "company": "Generac",
+      "location": "Sussex, Waukesha County",
+      "posted": "2026-10-04T08:13:44Z",
+      "url": "https://www.adzuna.com/details/5911500398?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
       "title": "QA/QC Technician",
       "company": "Hooper Deforest",
       "location": "Port Washington, Ozaukee County",
       "posted": "2026-10-04T07:23:59Z",
       "url": "https://www.adzuna.com/details/5911458296?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "VFD Technical Support Specialist",
-      "company": "ABB",
-      "location": "New Berlin, Waukesha County",
-      "posted": "2026-10-03T10:00:26Z",
-      "url": "https://www.adzuna.com/details/5910103700?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
