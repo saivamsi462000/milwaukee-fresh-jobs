@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-10-12T02:10:12.194092+00:00",
+  "last_updated": "2026-10-12T21:05:28.555903+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "IT Specialist",
+      "company": "Riley Construction",
+      "location": "Waukesha, Waukesha County",
+      "posted": "2026-10-12T15:30:21Z",
+      "url": "https://www.adzuna.com/land/ad/5924681818?se=KJxOnoDG8RGWsPUaVM20eg&utm_medium=api&utm_source=9f1063e3&v=47BE58AC175A3A9D275C22C55D540535DA039903",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Sr IT Application Support Specialist",
+      "company": "Molson Coors",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-10-12T13:27:15Z",
+      "url": "https://www.adzuna.com/land/ad/5924458110?se=iCHiooDG8RGmXeaUG_Yk-Q&utm_medium=api&utm_source=9f1063e3&v=EFC897D20884F4D6AB7637B3FF8AC42EBFCBFD7F",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "QA Technician Sr",
+      "company": "Patterson Companies, Inc.",
+      "location": "Waukesha, Waukesha County",
+      "posted": "2026-10-12T07:18:25Z",
+      "url": "https://www.adzuna.com/land/ad/5924148975?se=3Ot7pIDG8RGmXeaUG_Yk-Q&utm_medium=api&utm_source=9f1063e3&v=9265CE28BB184640A47D7693DEB2DE506A1E70F8",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Technician",
       "company": "National Seating & Mobility",
@@ -23,7 +47,7 @@
       "company": "STS Technical Services",
       "location": "Milwaukee, Milwaukee County",
       "posted": "2026-10-09T12:12:23Z",
-      "url": "https://www.adzuna.com/land/ad/5920953874?se=8KhmCuLF8RG-fsAd7Dzkwg&utm_medium=api&utm_source=9f1063e3&v=C7D631BCED091D6A5F62B830971AF1B533643B4F",
+      "url": "https://www.adzuna.com/land/ad/5920953874?se=XAPkn4DG8RGfvO-Bhf44AA&utm_medium=api&utm_source=9f1063e3&v=C7D631BCED091D6A5F62B830971AF1B533643B4F",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -31,7 +55,7 @@
       "company": "STS Technical Services",
       "location": "Milwaukee, Milwaukee County",
       "posted": "2026-10-09T12:12:23Z",
-      "url": "https://www.adzuna.com/land/ad/5920953874?se=QLQnDOLF8RGsztICp6LGnQ&utm_medium=api&utm_source=9f1063e3&v=C7D631BCED091D6A5F62B830971AF1B533643B4F",
+      "url": "https://www.adzuna.com/land/ad/5920953874?se=iCHiooDG8RGmXeaUG_Yk-Q&utm_medium=api&utm_source=9f1063e3&v=C7D631BCED091D6A5F62B830971AF1B533643B4F",
       "source": "Adzuna (redirect link)"
     }
   ]
