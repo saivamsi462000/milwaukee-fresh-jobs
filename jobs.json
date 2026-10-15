@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-10-14T16:50:20.393536+00:00",
+  "last_updated": "2026-10-15T01:17:57.533513+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Industrial Technical Support Specialist - Not IT (Sussex)",
+      "company": "Pattyn",
+      "location": "Sussex, Waukesha County",
+      "posted": "2026-10-14T13:47:35Z",
+      "url": "https://www.adzuna.com/land/ad/5927878980?se=9BlZPTbI8RGTY4AJ4znMGw&utm_medium=api&utm_source=9f1063e3&v=E4E167DFA25EF97ACA394798C5C4B814C7F2A44B",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Industrial Technical Support Specialist - Not IT (Sussex)",
+      "company": "Pattyn",
+      "location": "Sussex, Waukesha County",
+      "posted": "2026-10-14T13:47:35Z",
+      "url": "https://www.adzuna.com/land/ad/5927878980?se=-M8BPzbI8RGPDL_aH0Azaw&utm_medium=api&utm_source=9f1063e3&v=E4E167DFA25EF97ACA394798C5C4B814C7F2A44B",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Help Desk Technician I",
       "company": "SKYGEN",
@@ -15,15 +31,7 @@
       "company": "Generac Power Systems",
       "location": "Sussex, Waukesha County",
       "posted": "2026-10-14T07:13:10Z",
-      "url": "https://www.adzuna.com/land/ad/5927350750?se=jIRBU-_H8RGTY4AJ4znMGw&utm_medium=api&utm_source=9f1063e3&v=4741390516DE6F6B2CCEA8AA8AE9E4BD9DEDEEA1",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Customer Quotation Specialist",
-      "company": "AVIRE",
-      "location": "Sussex, Waukesha County",
-      "posted": "2026-10-14T06:41:32Z",
-      "url": "https://www.adzuna.com/land/ad/5927269937?se=jIRBU-_H8RGTY4AJ4znMGw&utm_medium=api&utm_source=9f1063e3&v=949EA409BF31E128830E4007493C9EF686FE99E3",
+      "url": "https://www.adzuna.com/land/ad/5927350750?se=9BlZPTbI8RGTY4AJ4znMGw&utm_medium=api&utm_source=9f1063e3&v=4741390516DE6F6B2CCEA8AA8AE9E4BD9DEDEEA1",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -31,15 +39,7 @@
       "company": "Patterson Companies, Inc.",
       "location": "Waukesha, Waukesha County",
       "posted": "2026-10-12T07:18:25Z",
-      "url": "https://www.adzuna.com/land/ad/5924148975?se=4FX2Ve_H8RGMeuQWzwoBfw&utm_medium=api&utm_source=9f1063e3&v=9265CE28BB184640A47D7693DEB2DE506A1E70F8",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Technician",
-      "company": "National Seating & Mobility",
-      "location": "Greenfield, Milwaukee County",
-      "posted": "2026-10-11T06:23:35Z",
-      "url": "https://www.adzuna.com/details/5923086798?utm_medium=api&utm_source=9f1063e3",
+      "url": "https://www.adzuna.com/land/ad/5924148975?se=fqHgPzbI8RGTY4AJ4znMGw&utm_medium=api&utm_source=9f1063e3&v=9265CE28BB184640A47D7693DEB2DE506A1E70F8",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -48,6 +48,14 @@
       "location": "Waukesha, Waukesha County",
       "posted": "2026-10-11T04:42:09Z",
       "url": "https://www.adzuna.com/details/5923041076?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Customer Quotation Specialist",
+      "company": "AVIRE",
+      "location": "Sussex, Waukesha County",
+      "posted": "2026-10-10T17:56:54Z",
+      "url": "https://www.adzuna.com/land/ad/5922556787?se=9BlZPTbI8RGTY4AJ4znMGw&utm_medium=api&utm_source=9f1063e3&v=3414D3482B1ED8FB254D56A5F5786E94E24E4616",
       "source": "Adzuna (redirect link)"
     }
   ]
