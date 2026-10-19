@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T00:56:57.685384+00:00",
+  "last_updated": "2026-10-19T18:32:08.850386+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
@@ -7,7 +7,7 @@
       "company": "Hooper Deforest",
       "location": "Milwaukee, Milwaukee County",
       "posted": "2026-10-18T14:16:04Z",
-      "url": "https://www.adzuna.com/land/ad/5933577122?se=pAKd-lfL8RGcG-LUwKwAYw&utm_medium=api&utm_source=9f1063e3&v=1008F96F9DB23A03C09A8BAC538FED72FC7CAAB2",
+      "url": "https://www.adzuna.com/land/ad/5933577122?se=BLb2YuvL8RGDdvJW8eCByg&utm_medium=api&utm_source=9f1063e3&v=1008F96F9DB23A03C09A8BAC538FED72FC7CAAB2",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -15,7 +15,7 @@
       "company": "Actalent",
       "location": "Port Washington, Ozaukee County",
       "posted": "2026-10-18T07:08:07Z",
-      "url": "https://www.adzuna.com/land/ad/5933215847?se=pAKd-lfL8RGcG-LUwKwAYw&utm_medium=api&utm_source=9f1063e3&v=5351AD11A9A2A33F3869E9576513023740C79277",
+      "url": "https://www.adzuna.com/land/ad/5933215847?se=BLb2YuvL8RGDdvJW8eCByg&utm_medium=api&utm_source=9f1063e3&v=5351AD11A9A2A33F3869E9576513023740C79277",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -40,30 +40,6 @@
       "location": "Sussex, Waukesha County",
       "posted": "2026-10-15T00:33:56Z",
       "url": "https://www.adzuna.com/details/5928514789?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Customer Quotation Specialist (Sussex)",
-      "company": "AVIRE",
-      "location": "Sussex, Waukesha County",
-      "posted": "2026-10-14T13:51:49Z",
-      "url": "https://www.adzuna.com/land/ad/5927903719?se=1k9S-FfL8RGE6p9jemNI7Q&utm_medium=api&utm_source=9f1063e3&v=649D237C4D669A9A98F67DE0D825D89BD3B41E81",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Help Desk Technician I",
-      "company": "SKYGEN",
-      "location": "Menomonee Falls, Waukesha County",
-      "posted": "2026-10-14T10:53:22Z",
-      "url": "https://www.adzuna.com/details/5927630364?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Senior Generator Product Support Specialist",
-      "company": "Generac Power Systems",
-      "location": "Sussex, Waukesha County",
-      "posted": "2026-10-14T07:13:10Z",
-      "url": "https://www.adzuna.com/land/ad/5927350750?se=1k9S-FfL8RGE6p9jemNI7Q&utm_medium=api&utm_source=9f1063e3&v=4741390516DE6F6B2CCEA8AA8AE9E4BD9DEDEEA1",
       "source": "Adzuna (redirect link)"
     }
   ]
