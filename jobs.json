@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T18:32:08.850386+00:00",
+  "last_updated": "2026-10-20T01:38:32.440120+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
@@ -7,7 +7,7 @@
       "company": "Hooper Deforest",
       "location": "Milwaukee, Milwaukee County",
       "posted": "2026-10-18T14:16:04Z",
-      "url": "https://www.adzuna.com/land/ad/5933577122?se=BLb2YuvL8RGDdvJW8eCByg&utm_medium=api&utm_source=9f1063e3&v=1008F96F9DB23A03C09A8BAC538FED72FC7CAAB2",
+      "url": "https://www.adzuna.com/land/ad/5933577122?se=KNbv8ybM8RGoAf1RbOiqRg&utm_medium=api&utm_source=9f1063e3&v=1008F96F9DB23A03C09A8BAC538FED72FC7CAAB2",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -15,7 +15,7 @@
       "company": "Actalent",
       "location": "Port Washington, Ozaukee County",
       "posted": "2026-10-18T07:08:07Z",
-      "url": "https://www.adzuna.com/land/ad/5933215847?se=BLb2YuvL8RGDdvJW8eCByg&utm_medium=api&utm_source=9f1063e3&v=5351AD11A9A2A33F3869E9576513023740C79277",
+      "url": "https://www.adzuna.com/land/ad/5933215847?se=KNbv8ybM8RGoAf1RbOiqRg&utm_medium=api&utm_source=9f1063e3&v=5351AD11A9A2A33F3869E9576513023740C79277",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -32,14 +32,6 @@
       "location": "Grafton, Ozaukee County",
       "posted": "2026-10-15T06:56:36Z",
       "url": "https://www.adzuna.com/details/5928808390?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Quality Assurance Supervisor, Nights",
-      "company": "Nature's Path",
-      "location": "Sussex, Waukesha County",
-      "posted": "2026-10-15T00:33:56Z",
-      "url": "https://www.adzuna.com/details/5928514789?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
