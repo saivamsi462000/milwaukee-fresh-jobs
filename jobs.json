@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-20T01:38:32.440120+00:00",
+  "last_updated": "2026-10-20T16:35:17.917019+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
-      "title": "QA/QC Technician - Process Piping",
-      "company": "Hooper Deforest",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-10-18T14:16:04Z",
-      "url": "https://www.adzuna.com/land/ad/5933577122?se=KNbv8ybM8RGoAf1RbOiqRg&utm_medium=api&utm_source=9f1063e3&v=1008F96F9DB23A03C09A8BAC538FED72FC7CAAB2",
+      "title": "Senior Technical Support Specialist - GNSS & Auto Guidance",
+      "company": "CNH Industrial",
+      "location": "Racine, Racine County",
+      "posted": "2026-10-20T06:28:00Z",
+      "url": "https://www.adzuna.com/details/5935297523?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -15,7 +15,7 @@
       "company": "Actalent",
       "location": "Port Washington, Ozaukee County",
       "posted": "2026-10-18T07:08:07Z",
-      "url": "https://www.adzuna.com/land/ad/5933215847?se=KNbv8ybM8RGoAf1RbOiqRg&utm_medium=api&utm_source=9f1063e3&v=5351AD11A9A2A33F3869E9576513023740C79277",
+      "url": "https://www.adzuna.com/land/ad/5933215847?se=lrKVOqTM8RGUlZcLbi9XfA&utm_medium=api&utm_source=9f1063e3&v=5351AD11A9A2A33F3869E9576513023740C79277",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -24,14 +24,6 @@
       "location": "Saint Francis, Milwaukee County",
       "posted": "2026-10-16T06:01:15Z",
       "url": "https://www.adzuna.com/details/5930340273?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "IT Support Specialist",
-      "company": "Kapco Career",
-      "location": "Grafton, Ozaukee County",
-      "posted": "2026-10-15T06:56:36Z",
-      "url": "https://www.adzuna.com/details/5928808390?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
