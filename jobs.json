@@ -1,13 +1,29 @@
 {
-  "last_updated": "2026-10-23T01:20:03.898865+00:00",
+  "last_updated": "2026-10-23T16:44:40.299233+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "IT Support Supervisor",
+      "company": "Revel Staffing",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-10-23T11:36:22Z",
+      "url": "https://www.adzuna.com/land/ad/5939398752?se=eCMgCAHP8RGrV9qPojDs1w&utm_medium=api&utm_source=9f1063e3&v=6F5B9B860610141CCAAD52477AE4CB4A3E47DCAD",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Failure Analysis Engineer",
+      "company": "Foxconn WI",
+      "location": "Mount Pleasant, Racine County",
+      "posted": "2026-10-23T11:35:39Z",
+      "url": "https://www.adzuna.com/land/ad/5939396375?se=6H7QCQHP8RGrV9qPojDs1w&utm_medium=api&utm_source=9f1063e3&v=62800F02130CC85768169AE9BF7BCD147FD02F39",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Manager of Operations",
       "company": "Compass Health Center",
       "location": "Brookfield, Waukesha County",
       "posted": "2026-10-22T09:52:54Z",
-      "url": "https://www.adzuna.com/land/ad/5937993915?se=_nvf3H_O8RGI4JqSWCEq_A&utm_medium=api&utm_source=9f1063e3&v=A15A0B96E6966B93A73963EE13C80820B7266BDE",
+      "url": "https://www.adzuna.com/land/ad/5937993915?se=7K1KBwHP8RG17O__M5KguQ&utm_medium=api&utm_source=9f1063e3&v=A15A0B96E6966B93A73963EE13C80820B7266BDE",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -15,7 +31,7 @@
       "company": "Care Career",
       "location": "Saint Francis, Milwaukee County",
       "posted": "2026-10-21T23:09:15Z",
-      "url": "https://www.adzuna.com/land/ad/5937322463?se=mPoN3H_O8RGoGY5azwFlbA&utm_medium=api&utm_source=9f1063e3&v=B419C4B7A6C1F609040129392A141CAB13C91703",
+      "url": "https://www.adzuna.com/land/ad/5937322463?se=_J9iBgHP8RG17O__M5KguQ&utm_medium=api&utm_source=9f1063e3&v=B419C4B7A6C1F609040129392A141CAB13C91703",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -24,14 +40,6 @@
       "location": "Racine, Racine County",
       "posted": "2026-10-20T06:28:00Z",
       "url": "https://www.adzuna.com/details/5935297523?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Data Center QA/QC Technician",
-      "company": "Actalent",
-      "location": "Port Washington, Ozaukee County",
-      "posted": "2026-10-18T07:08:07Z",
-      "url": "https://www.adzuna.com/land/ad/5933215847?se=LkFc3n_O8RGu05_d8wszgA&utm_medium=api&utm_source=9f1063e3&v=5351AD11A9A2A33F3869E9576513023740C79277",
       "source": "Adzuna (redirect link)"
     }
   ]
