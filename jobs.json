@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-10-25T15:48:32.895292+00:00",
+  "last_updated": "2026-10-26T01:03:01.833544+00:00",
   "freshness_window_days": 5,
   "jobs": [
-    {
-      "title": "IT Support - Entry Level Training Program",
-      "company": "Dreambound",
-      "location": "South Milwaukee, Milwaukee County",
-      "posted": "2026-10-25T10:17:43Z",
-      "url": "https://www.adzuna.com/land/ad/5941520949?se=AoTvhYvQ8RGrV9qPojDs1w&utm_medium=api&utm_source=9f1063e3&v=950C6FAAA7201A2293C2A7A830E2A482BA5DC0CB",
-      "source": "Adzuna (redirect link)"
-    },
     {
       "title": "IT Support Tech I",
       "company": "Charter Manufacturing",
@@ -23,23 +15,15 @@
       "company": "Care Career",
       "location": "Saint Francis, Milwaukee County",
       "posted": "2026-10-21T23:09:15Z",
-      "url": "https://www.adzuna.com/land/ad/5937322463?se=WvxchIvQ8RG17O__M5KguQ&utm_medium=api&utm_source=9f1063e3&v=B419C4B7A6C1F609040129392A141CAB13C91703",
+      "url": "https://www.adzuna.com/land/ad/5937322463?se=mF739tjQ8RG0GownEE_3tg&utm_medium=api&utm_source=9f1063e3&v=B419C4B7A6C1F609040129392A141CAB13C91703",
       "source": "Adzuna (redirect link)"
     },
     {
-      "title": "IT Support Specialist (Bilingual)",
-      "company": "STS Technical Services",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-10-21T12:44:20Z",
-      "url": "https://www.adzuna.com/land/ad/5936880871?se=WvxchIvQ8RG17O__M5KguQ&utm_medium=api&utm_source=9f1063e3&v=00399459D355F2C9148B4450F1C84226B984F48D",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "IT Support Specialist (Bilingual)",
-      "company": "STS Technical Services",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-10-21T12:44:20Z",
-      "url": "https://www.adzuna.com/land/ad/5936880871?se=AoTvhYvQ8RGrV9qPojDs1w&utm_medium=api&utm_source=9f1063e3&v=00399459D355F2C9148B4450F1C84226B984F48D",
+      "title": "US-Technical Specialist",
+      "company": "Apple",
+      "location": "Elm Grove, Waukesha County",
+      "posted": "2026-10-21T03:54:38Z",
+      "url": "https://www.adzuna.com/details/5936426365?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
