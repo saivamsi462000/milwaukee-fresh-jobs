@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-10-29T02:13:53.377070+00:00",
+  "last_updated": "2026-10-29T18:14:31.512912+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
-      "title": "IT Support Supervisor",
-      "company": "Revel Staffing",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-10-28T12:14:11Z",
-      "url": "https://www.adzuna.com/land/ad/5944707263?se=HvT1YD7T8RGptpmN0AJ7JQ&utm_medium=api&utm_source=9f1063e3&v=F2985C709168FD88583793A768110B6ED470043E",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Failure Analysis Engineer",
-      "company": "Foxconn WI",
-      "location": "Mount Pleasant, Racine County",
-      "posted": "2026-10-28T12:12:23Z",
-      "url": "https://www.adzuna.com/land/ad/5944701429?se=KguzYj7T8RGAoK1kFtQLzg&utm_medium=api&utm_source=9f1063e3&v=F6A380CD7570ECED9EC2F1AA75DE92BC3F46AA5A",
+      "title": "IT Support Specialist II",
+      "company": "Steele Solutions",
+      "location": "West Allis, Milwaukee County",
+      "posted": "2026-10-29T08:12:58Z",
+      "url": "https://www.adzuna.com/details/5945560700?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     },
     {
@@ -24,22 +16,6 @@
       "location": "Sussex, Waukesha County",
       "posted": "2026-10-28T00:55:05Z",
       "url": "https://www.adzuna.com/details/5944115179?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Failure Analysis Engineer",
-      "company": "Foxconn WI",
-      "location": "Mount Pleasant, Racine County",
-      "posted": "2026-10-26T23:35:17Z",
-      "url": "https://www.adzuna.com/land/ad/5943071197?se=KguzYj7T8RGAoK1kFtQLzg&utm_medium=api&utm_source=9f1063e3&v=CD397FD2770AA98AEFD541A893C7D63EFB9FAD4D",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "IT Support Tech I",
-      "company": "Charter Manufacturing",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-10-24T05:14:05Z",
-      "url": "https://www.adzuna.com/details/5940281613?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
