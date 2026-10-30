@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-10-30T02:27:25.166786+00:00",
+  "last_updated": "2026-10-30T17:51:34.365073+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Desktop Support Technician",
+      "company": "TEKsystems",
+      "location": "West Milwaukee, Milwaukee County",
+      "posted": "2026-10-30T08:07:24Z",
+      "url": "https://www.adzuna.com/land/ad/5946884814?se=wC2-iIrU8RGRQOLR_vdAhg&utm_medium=api&utm_source=9f1063e3&v=4C11DA6E6B6CE040446AD164C2BC2D5329156F18",
+      "source": "Adzuna (redirect link)"
+    },
+    {
+      "title": "Repair Debug Technician",
+      "company": "PDS Tech Commercial",
+      "location": "Racine, Racine County",
+      "posted": "2026-10-30T08:06:50Z",
+      "url": "https://www.adzuna.com/land/ad/5946881123?se=yBVEi4rU8RGRQOLR_vdAhg&utm_medium=api&utm_source=9f1063e3&v=551D7AA0D65BF57CCF4E0CDAA7C8663DB4AEA90C",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "IT Support Specialist II",
       "company": "Steele Solutions",
