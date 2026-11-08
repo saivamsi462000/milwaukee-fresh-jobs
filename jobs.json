@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T17:37:13.205855+00:00",
+  "last_updated": "2026-11-08T02:08:16.391118+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
@@ -8,14 +8,6 @@
       "location": "West Allis, Milwaukee County",
       "posted": "2026-11-07T00:26:35Z",
       "url": "https://www.adzuna.com/details/5956496972?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Technician 1 - Help Desk Support",
-      "company": "Maximus",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-11-02T21:07:06Z",
-      "url": "https://www.adzuna.com/details/5951112809?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
