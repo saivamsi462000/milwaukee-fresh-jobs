@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-11T19:24:10.932034+00:00",
+  "last_updated": "2026-11-12T03:40:24.651172+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "TECHNICAL SUPPORT SPECIALIST - WELDING",
+      "company": "EUTECTIC CORPORATION",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-11-11T20:08:25Z",
+      "url": "https://www.adzuna.com/details/5962343010?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Pouching Operator - 2rd Shift",
       "company": "Glenroy",
@@ -15,15 +23,7 @@
       "company": "NTT America, Inc.",
       "location": "West Milwaukee, Milwaukee County",
       "posted": "2026-11-08T08:44:52Z",
-      "url": "https://www.adzuna.com/land/ad/5958196726?se=Cp7TdQXe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=9f1063e3&v=DFF3F5E5DEDC4FF6B8EDFE98FAA70EA76D1FB077",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "Technical Support Specialist",
-      "company": "MEC",
-      "location": "West Allis, Milwaukee County",
-      "posted": "2026-11-07T00:26:35Z",
-      "url": "https://www.adzuna.com/details/5956496972?utm_medium=api&utm_source=9f1063e3",
+      "url": "https://www.adzuna.com/land/ad/5958196726?se=nghRyEre8RGYFNuPuswjLA&utm_medium=api&utm_source=9f1063e3&v=DFF3F5E5DEDC4FF6B8EDFE98FAA70EA76D1FB077",
       "source": "Adzuna (redirect link)"
     }
   ]
