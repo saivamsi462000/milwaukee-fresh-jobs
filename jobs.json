@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-14T17:47:55.557238+00:00",
+  "last_updated": "2026-11-15T02:27:34.746606+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "IT Specialist",
+      "company": "Riley Construction",
+      "location": "Waukesha, Waukesha County",
+      "posted": "2026-11-14T20:27:24Z",
+      "url": "https://www.adzuna.com/details/5966372209?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "VFD Technical Support Specialist",
       "company": "ABB",
