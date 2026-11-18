@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T04:03:51.571812+00:00",
+  "last_updated": "2026-11-18T20:12:21.925658+00:00",
   "freshness_window_days": 5,
   "jobs": [
     {
@@ -11,27 +11,11 @@
       "source": "Adzuna (redirect link)"
     },
     {
-      "title": "VFD Technical Support Specialist",
-      "company": "ABB",
-      "location": "New Berlin, Waukesha County",
-      "posted": "2026-11-14T09:11:07Z",
-      "url": "https://www.adzuna.com/details/5965998214?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
       "title": "Technician",
       "company": "National Seating & Mobility",
       "location": "Greenfield, Milwaukee County",
       "posted": "2026-11-14T03:18:09Z",
       "url": "https://www.adzuna.com/details/5965544045?utm_medium=api&utm_source=9f1063e3",
-      "source": "Adzuna (redirect link)"
-    },
-    {
-      "title": "IT Support Supervisor",
-      "company": "Move Vertical",
-      "location": "Milwaukee, Milwaukee County",
-      "posted": "2026-11-13T08:13:30Z",
-      "url": "https://www.adzuna.com/details/5964540936?utm_medium=api&utm_source=9f1063e3",
       "source": "Adzuna (redirect link)"
     }
   ]
