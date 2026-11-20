@@ -1,5 +1,14 @@
 {
-  "last_updated": "2026-11-20T03:54:07.495877+00:00",
+  "last_updated": "2026-11-20T19:47:45.285464+00:00",
   "freshness_window_days": 5,
-  "jobs": []
+  "jobs": [
+    {
+      "title": "Repair & Debug Technician",
+      "company": "PDS Tech",
+      "location": "Mount Pleasant, Racine County",
+      "posted": "2026-11-20T08:20:29Z",
+      "url": "https://www.adzuna.com/details/5972926372?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    }
+  ]
 }
