@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-24T22:06:56.642787+00:00",
+  "last_updated": "2026-11-25T05:17:24.193009+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "Help Desk Technician (Wisconsin local only)",
+      "company": "Morph Enterprise",
+      "location": "Milwaukee, Milwaukee County",
+      "posted": "2026-11-24T22:58:31Z",
+      "url": "https://www.adzuna.com/details/5977799657?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "IT Support Specialist",
       "company": "Taleo Social Sourcing",
