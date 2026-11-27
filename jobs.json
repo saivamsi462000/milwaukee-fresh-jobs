@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-27T04:52:09.112256+00:00",
+  "last_updated": "2026-11-27T20:53:31.297343+00:00",
   "freshness_window_days": 5,
   "jobs": [
+    {
+      "title": "IT Support Specialist",
+      "company": "Annex Wealth Management",
+      "location": "Brookfield, Waukesha County",
+      "posted": "2026-11-27T07:23:56Z",
+      "url": "https://www.adzuna.com/details/5980674395?utm_medium=api&utm_source=9f1063e3",
+      "source": "Adzuna (redirect link)"
+    },
     {
       "title": "Help Desk Technician (Wisconsin local only)",
       "company": "Morph Enterprise",
